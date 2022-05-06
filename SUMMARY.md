@@ -9,7 +9,7 @@
     * [🈳 Ethetal丨空灵](mod/gtav/ethetal-gun-kong-ling.md)
     * [👿 2Take1](mod/gtav/2take1/README.md)
       * [ZERO Lua功能图](mod/gtav/2take1/zerolua.md)
-      * [21Pro Lua功能图](mod/gtav/2take1/21pro-lua-gong-neng-tu.md)
+      * [21ProLua功能图](mod/gtav/2take1/21prolua-gong-neng-tu.md)
       * [Forever Lua功能图](mod/gtav/2take1/foerverlua.md)
       * [Mmt Lua功能图](mod/gtav/2take1/mmt-lua-gong-neng-tu.md)
     * [💚 SasaVN 丨阿尔法](mod/gtav/sasavn.md)
