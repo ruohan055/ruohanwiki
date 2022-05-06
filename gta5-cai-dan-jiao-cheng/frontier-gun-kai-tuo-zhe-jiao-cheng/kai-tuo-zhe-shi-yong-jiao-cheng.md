@@ -16,21 +16,21 @@ coverY: 0
 <mark style="color:red;">**注册账号密码不能有中文 不然无法注入菜单！**</mark>
 {% endhint %}
 
-![](<../../.gitbook/assets/image (23).png>)
+![](<../../.gitbook/assets/image (6) (1).png>)
 
-![](<../../.gitbook/assets/image (141).png>)
+![](<../../.gitbook/assets/image (22) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (270).png>)
+![](<../../.gitbook/assets/image (48) (1) (1).png>)
 
 **输入完点击 **<mark style="color:blue;">**Register**</mark>** 进行注册**
 
-****![](<../../.gitbook/assets/image (182).png>)****
+****![](<../../.gitbook/assets/image (29) (1) (1) (1) (1) (1).png>)****
 
-****![](<../../.gitbook/assets/image (285).png>)****
+****![](<../../.gitbook/assets/image (49) (1) (1) (1).png>)****
 
-****![](<../../.gitbook/assets/image (292).png>)****
+****![](<../../.gitbook/assets/image (52) (1) (1) (1).png>)****
 
-****![](<../../.gitbook/assets/image (65).png>)****
+****![](<../../.gitbook/assets/image (13) (1) (1).png>)****
 
 **右上角出现这提示代表激活成功**
 
@@ -40,7 +40,7 @@ coverY: 0
 <mark style="color:blue;">**售后群-群文件-开拓者 下载安装器**</mark>
 {% endhint %}
 
-<mark style="color:blue;">****</mark>![](<../../.gitbook/assets/image (83).png>)<mark style="color:blue;">****</mark>
+<mark style="color:blue;">****</mark>![](<../../.gitbook/assets/image (14) (1) (1) (1).png>)<mark style="color:blue;">****</mark>
 
 ## <mark style="color:red;">**3.注入：**</mark>
 
@@ -54,7 +54,7 @@ coverY: 0
 
 **如下图操作：**
 
-****![](<../../.gitbook/assets/image (219).png>)****
+****![](<../../.gitbook/assets/image (38) (1) (1).png>)****
 
 **点击注入后等待，等待游戏卡顿结束后即代表**<mark style="color:blue;">**注入成功**</mark>**！**
 

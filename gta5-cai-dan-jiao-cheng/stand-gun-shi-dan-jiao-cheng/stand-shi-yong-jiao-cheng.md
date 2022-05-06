@@ -48,7 +48,7 @@ coverY: 0
 
 **官方下载注入器：**
 
-****![](<../../.gitbook/assets/image (97).png>)****
+****![](<../../.gitbook/assets/image (23) (1).png>)****
 
 ## **3.安装注入：**
 
@@ -58,11 +58,11 @@ coverY: 0
 
 **如图操作：**
 
-![](<../../.gitbook/assets/image (177).png>)
+![](<../../.gitbook/assets/image (35).png>)
 
 ![](../../.gitbook/assets/spaces%2F7YXEHggLzaiKwZjRSOD4%2Fuploads%2F5Sh6Wyksq2Zl5CwSs31Q%2FStand%E5%AE%98%E7%BD%91%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%AD%E6%96%87%E6%B3%A8%E8%A7%A3.png)
 
-![](<../../.gitbook/assets/image (62).png>)
+![](<../../.gitbook/assets/image (19).png>)
 
 **做完新手教程即可正常使用**
 
@@ -103,7 +103,7 @@ coverY: 0
 {% hint style="danger" %}
 <mark style="color:red;">**注意：如果你进入故事模式后是下图中的情况，说明你网络问题未连接到服务器**</mark>
 
-****![](<../../.gitbook/assets/image (300).png>)****
+****![](<../../.gitbook/assets/image (58).png>)****
 
 **解决办法：**
 

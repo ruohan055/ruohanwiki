@@ -2,7 +2,7 @@
 
 ## **售后群内下载你喜欢的开拓者主题：**
 
-****![](<../../.gitbook/assets/image (193).png>)****
+****![](<../../.gitbook/assets/image (33) (1).png>)****
 
 **解压后**
 
@@ -16,7 +16,7 @@
 **是解压缩之后的文件夹 放在 Themes**
 {% endhint %}
 
-![](<../../.gitbook/assets/image (142).png>)
+![](<../../.gitbook/assets/image (23) (1) (1) (1).png>)
 
 ## **游戏内设置：**
 

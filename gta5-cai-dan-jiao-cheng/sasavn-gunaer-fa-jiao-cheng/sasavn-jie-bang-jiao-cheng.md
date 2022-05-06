@@ -14,9 +14,9 @@
 **登录你的SasaVN账号**
 {% endhint %}
 
-![](<../../.gitbook/assets/image (206).png>)
+![](<../../.gitbook/assets/image (19) (1) (1) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (36).png>)
+![](<../../.gitbook/assets/image (5) (1) (1) (1).png>)
 
 {% hint style="success" %}
 **注入菜单后点击**<mark style="color:green;">**Reset HWID**</mark>**，即可解绑**

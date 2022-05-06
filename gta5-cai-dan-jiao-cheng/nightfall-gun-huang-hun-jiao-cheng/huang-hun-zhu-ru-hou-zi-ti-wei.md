@@ -1,12 +1,12 @@
 # 黄昏注入后字体为？？？
 
-![](<../../.gitbook/assets/image (174).png>)
+![](<../../.gitbook/assets/image (30) (1) (1) (1).png>)
 
 **WIN+R 输入CMD 回车**
 
 **查看是否中文路径**
 
-![](<../../.gitbook/assets/image (297).png>)
+![](<../../.gitbook/assets/image (54) (1) (1).png>)
 
 **如果是，尝试修改"我的文档"路径**
 

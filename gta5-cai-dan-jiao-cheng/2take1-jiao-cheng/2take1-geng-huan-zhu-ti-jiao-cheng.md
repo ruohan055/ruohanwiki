@@ -4,7 +4,7 @@
 
 **把主题放到以下路径：**
 
-![](<../../.gitbook/assets/image (296).png>)
+![](<../../.gitbook/assets/image (56) (1).png>)
 
 **（ps：主题图片只能放一个，否则无效）**
 
@@ -19,7 +19,7 @@
 
 **菜单设置-标题自行调节 配色方案自行调节即可**
 
-****![](<../../.gitbook/assets/image (201).png>)****![](<../../.gitbook/assets/image (213).png>)****
+****![](<../../.gitbook/assets/image (37) (1).png>)****![](<../../.gitbook/assets/image (40) (1) (1).png>)****
 
 ****
 

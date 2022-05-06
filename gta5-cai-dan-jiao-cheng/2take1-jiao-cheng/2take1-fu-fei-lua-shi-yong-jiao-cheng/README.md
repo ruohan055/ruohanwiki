@@ -6,13 +6,13 @@
 
 **如下图操作：**
 
-![](<../../../.gitbook/assets/image (68).png>)
+![](<../../../.gitbook/assets/image (18) (1) (1).png>)
 
 **1.按Windows+R输入%appdata%进入如图路径**
 
 **Windows在你空格旁边不知道就自己百度Windows键运行**
 
-![](<../../../.gitbook/assets/image (256).png>)
+![](<../../../.gitbook/assets/image (50) (1).png>)
 
 **⒉将你想添加的Lua脚本文件放入下图路径，然后在游戏中加载脚本即可**
 
@@ -22,7 +22,7 @@
 
 ## **2.游戏内操作：**
 
-![](<../../../.gitbook/assets/image (169).png>)
+![](<../../../.gitbook/assets/image (32).png>)
 
 
 
@@ -32,6 +32,6 @@
 
 **打开脚本功能**
 
-![](<../../../.gitbook/assets/image (138).png>)
+![](<../../../.gitbook/assets/image (24) (1) (1) (1).png>)
 
 **点进去后选择脚本启动**

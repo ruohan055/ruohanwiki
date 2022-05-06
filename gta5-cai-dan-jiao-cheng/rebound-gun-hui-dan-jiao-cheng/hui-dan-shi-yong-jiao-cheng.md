@@ -12,25 +12,25 @@ coverY: 0
 
 **如下图操作：**
 
-![](<../../.gitbook/assets/image (126).png>)
+![](<../../.gitbook/assets/image (16) (1) (1) (1) (1).png>)
 
 > **【如果注册时下图中的验证码无法显】**
 >
-> <img src="../../.gitbook/assets/image (286).png" alt="" data-size="original">
+> <img src="../../.gitbook/assets/image (50) (1) (1).png" alt="" data-size="original">
 >
 > **【点此查看解决方法】**
 
-![](<../../.gitbook/assets/image (55).png>)
+![](<../../.gitbook/assets/image (12) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (264).png>)
+![](<../../.gitbook/assets/image (46) (1) (1) (1).png>)
 
 ## <mark style="color:red;">2.下载：</mark>
 
 **售后群下载注入器**
 
-![](<../../.gitbook/assets/image (191).png>)
+![](<../../.gitbook/assets/image (32) (1) (1) (1).png>)
 
 ## <mark style="color:red;">3.注入：</mark>
 
@@ -40,15 +40,15 @@ coverY: 0
 
 **如下图操作：**
 
-![](<../../.gitbook/assets/image (194).png>)
+![](<../../.gitbook/assets/image (33) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (145).png>)
+![](<../../.gitbook/assets/image (23) (1) (1) (1) (1).png>)
 
 **然后点击左侧 **<mark style="color:orange;">**Login Panel**</mark>** 输入账号密码后点击 **<mark style="color:orange;">**Login**</mark>** 登录**
 
-![](<../../.gitbook/assets/image (207).png>)
+![](<../../.gitbook/assets/image (36) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (183).png>)
+![](<../../.gitbook/assets/image (30) (1) (1) (1) (1) (1).png>)
 
 **随后如下图所示注入菜单**
 
@@ -58,9 +58,9 @@ coverY: 0
 **点击注入后等待**
 {% endhint %}
 
-![](<../../.gitbook/assets/image (200).png>)
+![](<../../.gitbook/assets/image (35) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (129).png>)
+![](<../../.gitbook/assets/image (18) (1) (1) (1) (1) (1) (1) (1).png>)
 
 {% hint style="danger" %}
 **上图这样代表注入成功**

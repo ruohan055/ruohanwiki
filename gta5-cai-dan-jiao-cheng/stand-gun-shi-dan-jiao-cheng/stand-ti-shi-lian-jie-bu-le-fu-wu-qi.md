@@ -4,9 +4,9 @@
 <mark style="color:red;">**查看以下错误提示：**</mark>
 {% endhint %}
 
-![或者：](<../../.gitbook/assets/image (51).png>)
+![或者：](<../../.gitbook/assets/image (17).png>)
 
-![](<../../.gitbook/assets/image (11).png>)
+![](<../../.gitbook/assets/image (7).png>)
 
 <mark style="color:blue;">**或者进入不了Stand官网**</mark>
 
@@ -30,14 +30,14 @@
 
 **如下图操作：**
 
-![](<../../.gitbook/assets/image (176).png>)
+![](<../../.gitbook/assets/image (34) (1).png>)
 
 {% hint style="info" %}
 <mark style="color:blue;">**如果不清楚自己是哪个网络连接，就把上图中框框里的 挨个按照下面的教程改一下**</mark>
 {% endhint %}
 
-![](<../../.gitbook/assets/image (50).png>)
+![](<../../.gitbook/assets/image (16).png>)
 
-![](<../../.gitbook/assets/image (211).png>)
+![](<../../.gitbook/assets/image (40) (1).png>)
 
-![](<../../.gitbook/assets/image (107).png>)
+![](<../../.gitbook/assets/image (24) (1) (1).png>)

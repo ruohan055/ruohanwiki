@@ -1,6 +1,6 @@
 # Delusion使用教程
 
-![](<../../.gitbook/assets/image (303).png>)
+![](<../../.gitbook/assets/image (59).png>)
 
 **【登录官网需要账号密码丨注入需要激活码，请务必保管好账号密码激活码，若丢失无法找回】**
 

@@ -2,7 +2,7 @@
 
 ## **1.注入2Take1并进入故事模式**
 
-![](<../../../../.gitbook/assets/image (42).png>)
+![](<../../../../.gitbook/assets/image (14).png>)
 
 {% hint style="danger" %}
 <mark style="color:red;">**控制台不能最小化**</mark>
@@ -10,21 +10,21 @@
 
 ## **2.售后群下载ZERO脚本安装器**
 
-![](<../../../../.gitbook/assets/image (231).png>)
+![](<../../../../.gitbook/assets/image (43) (1) (1).png>)
 
 > **如果打开提示这个**
 >
-> ****![](<../../../../.gitbook/assets/image (298).png>)****
+> ****![](<../../../../.gitbook/assets/image (57).png>)****
 >
 > **点击查看解决方法**
 
-![](<../../../../.gitbook/assets/image (9).png>)
+![](<../../../../.gitbook/assets/image (6).png>)
 
 **点击登陆**
 
 **然后按照下图操作：**
 
-****![](<../../../../.gitbook/assets/image (92).png>)****
+****![](<../../../../.gitbook/assets/image (22) (1) (1).png>)****
 
 {% hint style="danger" %}
 <mark style="color:red;"><mark style="color:purple;">**注入器不能遮盖控制台，控制台也不能最小化**<mark style="color:purple;"></mark>
@@ -32,7 +32,7 @@
 
 **出现下图代表注入成功**
 
-****![](<../../../../.gitbook/assets/image (40).png>)****
+****![](<../../../../.gitbook/assets/image (13).png>)****
 
 {% hint style="info" %}
 **注入完毕后注入器可关闭**

@@ -4,19 +4,19 @@
 
 **售后群下载注入器**
 
-![](<../../.gitbook/assets/image (278).png>)
+![](<../../.gitbook/assets/image (23) (1) (1) (1) (1) (1) (1).png>)
 
 **下载后 **<mark style="color:blue;">**鼠标右键管理员运行**</mark>
 
 > **如若打开时提示下图👇**
 >
-> ****![](<../../.gitbook/assets/image (185).png>)****
+> ****![](<../../.gitbook/assets/image (15) (1) (1) (1) (1) (1) (1) (1).png>)****
 >
 > **【点此查看解决办法】**
 
 **然后按照下图操作：**
 
-![](<../../.gitbook/assets/image (257).png>)
+![](<../../.gitbook/assets/image (22) (1) (1) (1) (1) (1).png>)
 
 {% hint style="danger" %}
 <mark style="color:red;">**注册账号密码不要带标点符号跟中文 请选择纯英文或数字，建议字数不超过11位**</mark>** **&#x20;
@@ -30,15 +30,15 @@
 
 <mark style="color:blue;">**进入游戏故事模式**</mark>**按照下图操作点击注入**
 
-![](<../../.gitbook/assets/image (15).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)
 
-![](<../../.gitbook/assets/image (33).png>)
+![](<../../.gitbook/assets/image (4) (1) (1).png>)
 
 {% hint style="info" %}
 **接着会弹出一个黑框，不要关闭他，最小化即可**
 {% endhint %}
 
-![](<../../.gitbook/assets/image (13).png>)
+![](<../../.gitbook/assets/image (1) (1) (1) (1) (1).png>)
 
 ## <mark style="color:red;">**3.使用：**</mark>
 
@@ -50,7 +50,7 @@
 
 ### **INS键位看下图：**
 
-![](<../../.gitbook/assets/image (253).png>)
+![](<../../.gitbook/assets/image (21) (1) (1) (1) (1) (1) (1) (1).png>)
 
 ### **使用中自崩：**
 

@@ -1,3 +1,3 @@
 # 空灵功能图
 
-![](<../../.gitbook/assets/image (262).png>)
+![](<../../.gitbook/assets/image (47) (1).png>)

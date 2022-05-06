@@ -6,4 +6,4 @@
 
 **调节到自己可看得见的字体**
 
-![](<../../.gitbook/assets/image (277).png>)
+![](<../../.gitbook/assets/image (54).png>)

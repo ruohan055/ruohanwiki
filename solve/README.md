@@ -44,7 +44,7 @@ description: 请根据你的游戏类型调整，重装系统是最后的方法
 
 **游戏设置--**<mark style="color:red;">**窗口化**</mark>
 
-![](../.gitbook/assets/image-20220404224125068.png)
+![](assets/image-20220404224125068.png)
 
 {% hint style="info" %}
 **电脑设置：**
@@ -82,7 +82,7 @@ description: 请根据你的游戏类型调整，重装系统是最后的方法
 
 **查看是否中文路径**
 
-![](../.gitbook/assets/image-20220404224239899.png)
+![](assets/image-20220404224239899.png)
 
 **如果是，尝试修改"我的文档"路径**
 

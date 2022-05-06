@@ -2,11 +2,11 @@
 
 **菜单注入后，选择此功能**
 
-![](<../../.gitbook/assets/image (222).png>)
+![](<../../.gitbook/assets/image (43).png>)
 
 **会自动弹出网页**
 
-![](<../../.gitbook/assets/image (123).png>)
+![](<../../.gitbook/assets/image (27).png>)
 
 **此时可以按“+”在游戏中关掉菜单，只用网页操作**
 

@@ -4,7 +4,7 @@
 
 **售后群下载ZERO任务面板**
 
-![售后群也有视频教程，更加方便](<../../.gitbook/assets/image (166).png>)
+![售后群也有视频教程，更加方便](<../../.gitbook/assets/image (14) (1) (1) (1) (1) (1) (1).png>)
 
 **解压后 **<mark style="color:blue;">**鼠标右键管理员运行**</mark>
 
@@ -12,11 +12,11 @@
 
 **进入**<mark style="color:blue;">**游戏故事模式**</mark>
 
-![](<../../.gitbook/assets/image (131).png>)
+![](<../../.gitbook/assets/image (12) (1) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (58).png>)
+![](<../../.gitbook/assets/image (7) (1) (1) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (212).png>)
+![](<../../.gitbook/assets/image (18) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 ## <mark style="color:red;">**3.使用：**</mark>
 

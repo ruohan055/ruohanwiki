@@ -1,6 +1,6 @@
 # ZERO解绑教程
 
-![](<../../.gitbook/assets/image (197).png>)
+![](<../../.gitbook/assets/image (16) (1) (1) (1) (1) (1) (1).png>)
 
 <mark style="color:blue;">**24小时冷却时间**</mark>
 

@@ -2,4 +2,4 @@
 
 **本店只出售VIP版本**
 
-![](<../../.gitbook/assets/image (77).png>)
+![](<../../.gitbook/assets/image (22) (1).png>)

@@ -2,19 +2,19 @@
 
 ## **1.售后群下载防护拓展**
 
-****![](<../../.gitbook/assets/image (281).png>)****
+****![](<../../.gitbook/assets/image (54) (1).png>)****
 
 **找到并打开Lua文件夹**
 
-****![](<../../.gitbook/assets/image (238).png>)****
+****![](<../../.gitbook/assets/image (45).png>)****
 
-****![](<../../.gitbook/assets/image (275).png>)****
+****![](<../../.gitbook/assets/image (52) (1).png>)****
 
 **把下载好的防护拓展复制到这个文件夹里替换掉即可**
 
-****![](<../../.gitbook/assets/image (143).png>)****
+****![](<../../.gitbook/assets/image (25) (1) (1) (1).png>)****
 
-****![](<../../.gitbook/assets/image (73).png>)****
+****![](<../../.gitbook/assets/image (20) (1).png>)****
 
 **替换了防护拓展后，然后还需要做的就是战局里标记玩家**
 

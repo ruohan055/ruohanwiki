@@ -12,14 +12,14 @@
 
 **填写**<mark style="color:red;">**用户名(username)**</mark>**和**<mark style="color:red;">**邮箱(Email)**</mark>**，输入**<mark style="color:red;">**验证码**</mark>**，**<mark style="color:red;">**打勾**</mark>**同意协议。点**<mark style="color:red;">**Submit**</mark>**注册。**
 
-![](<../../.gitbook/assets/image (242).png>)
+![](<../../.gitbook/assets/image (43) (1) (1) (1).png>)
 
 **注册后，你邮箱会收到一封验证信（注意可能在垃圾箱），点击验证链接**
 
 **会提示你设置登陆密码，两行分别是密码和重复密码。**\
 
 
-![](<../../.gitbook/assets/image (146).png>)
+![](<../../.gitbook/assets/image (24) (1) (1) (1) (1).png>)
 
 {% hint style="info" %}
 **检查你的邮件收件箱中是否有消息（可能在垃圾信箱），然后**<mark style="color:blue;">**单击内部连接**</mark>**以验证你的电子邮件地址**
@@ -27,7 +27,7 @@
 
 **输入两次密码**
 
-![](<../../.gitbook/assets/image (230).png>)
+![](<../../.gitbook/assets/image (41) (1).png>)
 
 **设置密码完成后，注册工作结束！**
 
@@ -37,25 +37,25 @@
 
 **登陆账户，如图输入自己注册的用户名和密码，点Submit登陆。**
 
-![](<../../.gitbook/assets/image (161).png>)
+![](<../../.gitbook/assets/image (29) (1) (1).png>)
 
 **登陆后如图，依次点击账户，点击激活，输入购买获取的激活码点保存图标。就完成了激活工作！**
 
-![](<../../.gitbook/assets/image (61).png>)
+![](<../../.gitbook/assets/image (13) (1).png>)
 
-![上图代表激活成功](<../../.gitbook/assets/image (130).png>)
+![上图代表激活成功](<../../.gitbook/assets/image (21) (1) (1) (1).png>)
 
 ## <mark style="color:red;">**3.安装：**</mark>
 
 **售后群下载安装器**
 
-![](<../../.gitbook/assets/image (254).png>)
+![](<../../.gitbook/assets/image (45) (1).png>)
 
 <mark style="color:purple;">**鼠标右键管理员运行**</mark>**注入器**
 
 **如图操作：**
 
-![](<../../.gitbook/assets/image (120).png>)
+![](<../../.gitbook/assets/image (20) (1) (1).png>)
 
 ## <mark style="color:red;">4.使用：</mark>
 

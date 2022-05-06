@@ -1,6 +1,6 @@
 # 2Take1注入时错误提示
 
-![](<../../.gitbook/assets/image (29).png>)
+![](<../../.gitbook/assets/image (10).png>)
 
 {% hint style="success" %}
 **网络问题，可以尝试切换网络，关闭或打开加速器**
@@ -10,7 +10,7 @@
 
 
 
-![](<../../.gitbook/assets/image (57).png>)
+![](<../../.gitbook/assets/image (17) (1).png>)
 
 {% hint style="success" %}
 **解绑时间没到，继续等待（冷却时间12小时）**
@@ -18,7 +18,7 @@
 
 
 
-![](<../../.gitbook/assets/image (302).png>)
+![](<../../.gitbook/assets/image (58) (1).png>)
 
 {% hint style="success" %}
 **你把程序打开了两遍**
@@ -26,9 +26,9 @@
 
 
 
-![](<../../.gitbook/assets/image (287).png>)
+![](<../../.gitbook/assets/image (55) (1).png>)
 
-![](<../../.gitbook/assets/image (237).png>)
+![](<../../.gitbook/assets/image (44) (1) (1).png>)
 
 {% hint style="success" %}
 **可能是网络问题，建议卸载2Take1**
