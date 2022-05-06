@@ -1,0 +1,7 @@
+---
+description: 购买完成后均为终身使用，终身是指软件的生命周期内。
+---
+
+# Mmt Lua功能图
+
+![若看不清，请复制到桌面](<../../../.gitbook/assets/mmt  lua.png>)
