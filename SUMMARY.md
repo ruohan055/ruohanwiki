@@ -2,7 +2,7 @@
 
 * [☃ Wiki主页](README.md)
   * [☃ 菜单状态](wiki/state/README.md)
-  * [💧 免责声明](readme/state/disclaimers.md)
+  * [💧 Disclaimers](readme/disclaimers.md)
   * [❄ 菜单官网](wiki/website/README.md)
 * [🥶 菜单推荐](mod/README.md)
   * [Grand Theft Auto V](mod/gtav/README.md)
