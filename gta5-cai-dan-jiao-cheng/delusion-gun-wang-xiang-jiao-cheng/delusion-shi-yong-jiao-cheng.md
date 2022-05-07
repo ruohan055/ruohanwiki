@@ -50,6 +50,14 @@
 
 **就注入成功了**
 
+{% hint style="danger" %}
+<mark style="color:red;">**注入之后桌面上会自动生成一个x64文件夹，此文件夹以及里面的文件不要删除！**</mark>
+
+<mark style="color:red;">**否则下次注入就会失败！**</mark>
+
+<mark style="color:red;">****</mark>![](<../../.gitbook/assets/image (18).png>)<mark style="color:red;">****</mark>
+{% endhint %}
+
 ## **3.使用：**
 
 **注入成功后**
@@ -57,3 +65,7 @@
 **`F5` 呼出/隐藏菜单**
 
 **`鼠标点击` 操控菜单**
+
+鼠标移动，鼠标左键确定/操作，鼠标滚轮上下滑动
+
+\

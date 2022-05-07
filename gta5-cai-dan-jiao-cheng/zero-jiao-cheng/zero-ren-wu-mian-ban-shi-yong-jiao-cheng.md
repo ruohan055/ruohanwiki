@@ -16,7 +16,7 @@
 
 ![](<../../.gitbook/assets/image (7) (1) (1) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (18) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (18) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 ## <mark style="color:red;">**3.使用：**</mark>
 

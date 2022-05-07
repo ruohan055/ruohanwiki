@@ -60,7 +60,7 @@ coverY: 0
 
 ![](<../../.gitbook/assets/image (35) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (18) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (18) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 {% hint style="danger" %}
 **上图这样代表注入成功**
