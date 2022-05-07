@@ -196,4 +196,5 @@
   * [樱桃抢主机教程](gta5-cai-dan-jiao-cheng/cherax-gun-ying-tao-jiao-cheng/ying-tao-qiang-zhu-ji-jiao-cheng.md)
   * [樱桃更改密码教程](gta5-cai-dan-jiao-cheng/cherax-gun-ying-tao-jiao-cheng/ying-tao-geng-gai-mi-ma-jiao-cheng.md)
   * [樱桃使用脚本教程](gta5-cai-dan-jiao-cheng/cherax-gun-ying-tao-jiao-cheng/ying-tao-shi-yong-jiao-ben-jiao-cheng.md)
+  * [樱桃插件使用教程](gta5-cai-dan-jiao-cheng/cherax-gun-ying-tao-jiao-cheng/ying-tao-cha-jian-shi-yong-jiao-cheng.md)
 * [PhantomX丨幻影 教程](gta5-cai-dan-jiao-cheng/phantomx-gun-huan-ying-jiao-cheng.md)
