@@ -174,4 +174,6 @@
 * [Venom丨毒液 教程](gta5-cai-dan-jiao-cheng/venom-gun-du-ye-jiao-cheng/README.md)
   * [毒液使用教程(GTA5)](gta5-cai-dan-jiao-cheng/venom-gun-du-ye-jiao-cheng/du-ye-shi-yong-jiao-cheng-gta5/README.md)
     * [毒液设置快捷键教程](gta5-cai-dan-jiao-cheng/venom-gun-du-ye-jiao-cheng/du-ye-shi-yong-jiao-cheng-gta5/du-ye-she-zhi-kuai-jie-jian-jiao-cheng.md)
-  * [毒液使用教程(RDR2)](gta5-cai-dan-jiao-cheng/venom-gun-du-ye-jiao-cheng/du-ye-shi-yong-jiao-cheng-rdr2.md)
+  * [毒液使用教程(RDR2)](gta5-cai-dan-jiao-cheng/venom-gun-du-ye-jiao-cheng/du-ye-shi-yong-jiao-cheng-rdr2/README.md)
+    * [毒液使用注意事项](gta5-cai-dan-jiao-cheng/venom-gun-du-ye-jiao-cheng/du-ye-shi-yong-jiao-cheng-rdr2/du-ye-shi-yong-zhu-yi-shi-xiang.md)
+    * [使用毒液时口哨无法呼叫马匹](gta5-cai-dan-jiao-cheng/venom-gun-du-ye-jiao-cheng/du-ye-shi-yong-jiao-cheng-rdr2/shi-yong-du-ye-shi-kou-shao-wu-fa-hu-jiao-ma-pi.md)

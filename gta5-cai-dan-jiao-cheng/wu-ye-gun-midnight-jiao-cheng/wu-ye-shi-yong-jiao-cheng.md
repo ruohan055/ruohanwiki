@@ -69,7 +69,7 @@ coverY: 0
 **【输入你的午夜账号（这里是输入邮箱）/密码 进行登录】**
 {% endhint %}
 
-![](<../../.gitbook/assets/image (16) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (16) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 **输入完邮箱密码后点击 **<mark style="color:red;">**LOG IN NOW**</mark>** 登陆**
 

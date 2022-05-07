@@ -42,7 +42,7 @@
 **第一次注入需要先按Load YTD，等底部读条满后再点inject注入**
 {% endhint %}
 
-![](<../../.gitbook/assets/image (16) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (16) (1) (1) (1) (1) (1) (1).png>)
 
 **注入完后游戏内会有下图提示：**
 

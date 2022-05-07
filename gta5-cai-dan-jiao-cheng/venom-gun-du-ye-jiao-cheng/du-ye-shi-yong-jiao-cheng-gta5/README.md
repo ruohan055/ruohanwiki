@@ -4,7 +4,7 @@
 
 **售后群下载Venmo文件**
 
-![](<../../../.gitbook/assets/image (15).png>)
+![](<../../../.gitbook/assets/image (16).png>)
 
 **下载解压后**
 

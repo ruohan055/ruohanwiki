@@ -20,7 +20,7 @@
 
 <mark style="color:purple;">****</mark>![](<../../../../.gitbook/assets/image (31) (1) (1).png>)<mark style="color:purple;">****</mark>
 
-<mark style="color:purple;">****</mark>![](<../../../../.gitbook/assets/image (16) (1).png>)<mark style="color:purple;">****</mark>
+<mark style="color:purple;">****</mark>![](<../../../../.gitbook/assets/image (16) (1) (1).png>)<mark style="color:purple;">****</mark>
 
 <mark style="color:purple;">****</mark>![](<../../../../.gitbook/assets/image (51) (1) (1) (1) (1).png>)<mark style="color:purple;">****</mark>
 

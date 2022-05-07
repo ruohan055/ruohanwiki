@@ -36,7 +36,7 @@
 <mark style="color:blue;">**如果不清楚自己是哪个网络连接，就把上图中框框里的 挨个按照下面的教程改一下**</mark>
 {% endhint %}
 
-![](<../../.gitbook/assets/image (16).png>)
+![](<../../.gitbook/assets/image (16) (1).png>)
 
 ![](<../../.gitbook/assets/image (40) (1).png>)
 
