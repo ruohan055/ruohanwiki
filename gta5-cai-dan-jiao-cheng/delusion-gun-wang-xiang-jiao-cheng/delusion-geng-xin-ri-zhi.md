@@ -2,7 +2,7 @@
 description: 其他更新公告请移步售后群内公告查看，这里只是发送部分更新日志公告
 ---
 
-# Delusion更新日志
+# Delusion更新公告
 
 ## 2022.05.02 AntiGrind更新至 1.0.5 版本
 
