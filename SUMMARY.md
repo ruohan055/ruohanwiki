@@ -164,3 +164,7 @@
   * [Stand插件安装教程](gta5-cai-dan-jiao-cheng/stand-gun-shi-dan-jiao-cheng/stand-cha-jian-an-zhuang-jiao-cheng.md)
 * [Delusion丨妄想 教程](gta5-cai-dan-jiao-cheng/delusion-gun-wang-xiang-jiao-cheng/README.md)
   * [Delusion使用教程](gta5-cai-dan-jiao-cheng/delusion-gun-wang-xiang-jiao-cheng/delusion-shi-yong-jiao-cheng.md)
+  * [Delusion更改密码教程](gta5-cai-dan-jiao-cheng/delusion-gun-wang-xiang-jiao-cheng/delusion-geng-gai-mi-ma-jiao-cheng.md)
+  * [Delusion设置快捷键](gta5-cai-dan-jiao-cheng/delusion-gun-wang-xiang-jiao-cheng/delusion-she-zhi-kuai-jie-jian.md)
+  * [Delusion任务教程](gta5-cai-dan-jiao-cheng/delusion-gun-wang-xiang-jiao-cheng/delusion-ren-wu-jiao-cheng.md)
+  * [Delusion解绑教程](gta5-cai-dan-jiao-cheng/delusion-gun-wang-xiang-jiao-cheng/delusion-jie-bang-jiao-cheng.md)
