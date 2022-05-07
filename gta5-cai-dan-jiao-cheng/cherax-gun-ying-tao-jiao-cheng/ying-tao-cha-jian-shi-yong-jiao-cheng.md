@@ -12,11 +12,11 @@
 **C:\\-用户-Administrator-AppData-Roaming-Cherax-ASi**
 {% endhint %}
 
-![](<../../.gitbook/assets/image (52).png>)
+![](<../../.gitbook/assets/image (53).png>)
 
-![](<../../.gitbook/assets/image (63).png>)
+![](<../../.gitbook/assets/image (64).png>)
 
-![](<../../.gitbook/assets/image (41).png>)
+![](<../../.gitbook/assets/image (42).png>)
 
 **进入游戏内操作：**
 
@@ -28,6 +28,6 @@
 
 ## **Menyoo设置中文教程：**
 
-![](<../../.gitbook/assets/image (59).png>)
+![](<../../.gitbook/assets/image (60).png>)
 
 ![](<../../.gitbook/assets/image (25).png>)
