@@ -189,6 +189,8 @@
   * [毒液获取数据为空没有获取到游戏数据](gta5-cai-dan-jiao-cheng/venom-gun-du-ye-jiao-cheng/du-ye-huo-qu-shu-ju-wei-kong-mei-you-huo-qu-dao-you-xi-shu-ju.md)
 * [Rage 教程](gta5-cai-dan-jiao-cheng/rage-jiao-cheng.md)
 * [Cherax丨樱桃 教程](gta5-cai-dan-jiao-cheng/cherax-gun-ying-tao-jiao-cheng/README.md)
+  * [樱桃功能图](gta5-cai-dan-jiao-cheng/cherax-gun-ying-tao-jiao-cheng/ying-tao-gong-neng-tu.md)
+  * [Page 1](gta5-cai-dan-jiao-cheng/cherax-gun-ying-tao-jiao-cheng/page-1.md)
   * [樱桃使用教程](gta5-cai-dan-jiao-cheng/cherax-gun-ying-tao-jiao-cheng/ying-tao-shi-yong-jiao-cheng.md)
   * [樱桃设置主题教程](gta5-cai-dan-jiao-cheng/cherax-gun-ying-tao-jiao-cheng/ying-tao-she-zhi-zhu-ti-jiao-cheng.md)
   * [樱桃设置中文教程](gta5-cai-dan-jiao-cheng/cherax-gun-ying-tao-jiao-cheng/ying-tao-she-zhi-zhong-wen-jiao-cheng.md)

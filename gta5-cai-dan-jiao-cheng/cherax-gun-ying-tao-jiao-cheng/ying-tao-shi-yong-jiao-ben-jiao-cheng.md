@@ -2,13 +2,13 @@
 
 ## **售后群下载Lua脚本文件**
 
-![](<../../.gitbook/assets/image (19).png>)
+![](<../../.gitbook/assets/image (20).png>)
 
 {% hint style="info" %}
 下载解压后**WIN+R输入**%appdata%
 {% endhint %}
 
-![](<../../.gitbook/assets/image (54).png>)
+![](<../../.gitbook/assets/image (56).png>)
 
 **把解压后的文件拖到以下目录里**
 
@@ -16,6 +16,6 @@
 
 ## **游戏内操作：**
 
-![](<../../.gitbook/assets/image (64).png>)
+![](<../../.gitbook/assets/image (66).png>)
 
-![](<../../.gitbook/assets/image (62).png>)
+![](<../../.gitbook/assets/image (64).png>)

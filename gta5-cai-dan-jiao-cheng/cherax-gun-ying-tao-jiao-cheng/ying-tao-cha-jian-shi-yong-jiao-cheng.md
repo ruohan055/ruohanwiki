@@ -2,7 +2,7 @@
 
 ## **售后群下载插件文件**
 
-![](<../../.gitbook/assets/image (18).png>)
+![](<../../.gitbook/assets/image (19).png>)
 
 **下载后解压**
 
@@ -12,11 +12,11 @@
 **C:\\-用户-Administrator-AppData-Roaming-Cherax-ASi**
 {% endhint %}
 
-![](<../../.gitbook/assets/image (50).png>)
+![](<../../.gitbook/assets/image (52).png>)
 
-![](<../../.gitbook/assets/image (61).png>)
+![](<../../.gitbook/assets/image (63).png>)
 
-![](<../../.gitbook/assets/image (40).png>)
+![](<../../.gitbook/assets/image (41).png>)
 
 **进入游戏内操作：**
 
@@ -28,6 +28,6 @@
 
 ## **Menyoo设置中文教程：**
 
-![](<../../.gitbook/assets/image (57).png>)
+![](<../../.gitbook/assets/image (59).png>)
 
-![](<../../.gitbook/assets/image (24).png>)
+![](<../../.gitbook/assets/image (25).png>)
