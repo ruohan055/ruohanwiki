@@ -46,7 +46,7 @@
 
 ![](<../../.gitbook/assets/image (52) (1) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (15) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (15) (1) (1) (1) (1).png>)
 
 **点击登录后，会提示下图安装完成**
 

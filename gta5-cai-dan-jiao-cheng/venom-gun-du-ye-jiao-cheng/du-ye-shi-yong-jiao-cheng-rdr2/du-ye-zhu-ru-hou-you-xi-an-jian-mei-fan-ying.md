@@ -2,4 +2,4 @@
 
 **把选项里这个关了**
 
-![](<../../../.gitbook/assets/image (28).png>)
+![](<../../../.gitbook/assets/image (28) (1).png>)

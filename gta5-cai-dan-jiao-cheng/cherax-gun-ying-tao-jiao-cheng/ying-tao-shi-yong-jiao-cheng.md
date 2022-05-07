@@ -6,8 +6,6 @@ coverY: 0
 
 # 樱桃使用教程
 
-##
-
 ## 1.注册：
 
 {% hint style="danger" %}
@@ -24,18 +22,18 @@ coverY: 0
 
 ![](<../../.gitbook/assets/image (46).png>)
 
-![](<../../.gitbook/assets/image (25).png>)
+![](<../../.gitbook/assets/image (27).png>)
 
 {% hint style="danger" %}
 <mark style="color:red;">**注册的时候不能有中文跟特殊字符，不然会注册/注入不了**</mark>
 {% endhint %}
 
 ![
-](<../../.gitbook/assets/image (23).png>)
+](<../../.gitbook/assets/image (25).png>)
 
 > **【如果注册时下图的验证码无法显示】**
 >
-> ****![](<../../.gitbook/assets/image (26).png>)****
+> ****![](<../../.gitbook/assets/image (28).png>)****
 >
 > **查看解决教程：点击查看解决教程**
 
@@ -45,7 +43,7 @@ coverY: 0
 {% tab title="验证邮箱" %}
 **在注册完账号之后 在你注册时输入的**<mark style="color:purple;">**邮箱**</mark>**会收到**<mark style="color:purple;">**Cherax**</mark>**的邮件**
 
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (11).png>)
 
 **点击 **<mark style="color:purple;">**CONFIRM YOUR EMAIL**</mark>** 验证 ,然后查看激活教程**
 {% endtab %}
@@ -91,11 +89,11 @@ coverY: 0
 
 **按照下图操作**
 
-![](<../../.gitbook/assets/image (24).png>)
+![](<../../.gitbook/assets/image (26).png>)
 
 ![](<../../.gitbook/assets/image (18).png>)
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (13).png>)
 
 **下载安装文件**
 
@@ -107,20 +105,46 @@ coverY: 0
 
 **WIN+R输入 %appdata%  (WIN就是键盘上的开始键)**
 
-****![](<../../.gitbook/assets/image (14).png>)****
+****![](<../../.gitbook/assets/image (15).png>)****
 
 **把解压后的**<mark style="color:purple;">**Cherax**</mark>**文件拖到**
 
 ![](<../../.gitbook/assets/image (32).png>)
 
-![](<../../.gitbook/assets/image (22).png>)
+![](<../../.gitbook/assets/image (23).png>)
 
 {% hint style="info" %}
 **拖了后 你点进去Cherax文件夹是如上图所示才是成功**
 {% endhint %}
+
+## **5.注入：**
 
 **上面的步骤完成后，进入游戏故事模式，解压并运行在官网下载的注入器，按照下图操作**
 
 ![](<../../.gitbook/assets/image (58).png>)
 
 **程序加载后，按照下图操作：**
+
+![](<../../.gitbook/assets/image (37).png>)
+
+![](<../../.gitbook/assets/image (20).png>)
+
+{% hint style="danger" %}
+**若一直卡在此界面，可尝试以下办法：**
+
+****<img src="../../.gitbook/assets/image (24).png" alt="" data-size="original">****
+{% endhint %}
+
+## **6.使用：**
+
+**注入成功后**
+
+**点击 `INS/DEL` 呼出/隐藏菜单**
+
+&#x20;<mark style="color:red;">****</mark>** `鼠标点击` 操控菜单**
+
+**DELETE键 呼出/隐藏菜单**
+
+![](<../../.gitbook/assets/image (9).png>)
+
+****

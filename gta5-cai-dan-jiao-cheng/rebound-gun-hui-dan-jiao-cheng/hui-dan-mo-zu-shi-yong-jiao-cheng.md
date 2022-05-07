@@ -18,7 +18,7 @@
 
 **载具选项-定制载具**
 
-****![](<../../.gitbook/assets/image (37) (1) (1) (1) (1) (1).png>)****
+****![](<../../.gitbook/assets/image (37) (1) (1) (1) (1) (1) (1).png>)****
 
 {% hint style="info" %}
 **根据自己的需要选择XML 或者 INI 或者 JSON载具**

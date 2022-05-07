@@ -4,4 +4,4 @@
 **解绑次数1年100次，无冷却，每半年多全部重置清空。**
 {% endhint %}
 
-![](<../../.gitbook/assets/image (13).png>)
+![](<../../.gitbook/assets/image (14).png>)

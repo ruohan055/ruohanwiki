@@ -8,7 +8,7 @@
 
 ****![](<../../.gitbook/assets/image (18) (1) (1) (1) (1) (1) (1) (1) (1).png>)****
 
-****![](<../../.gitbook/assets/image (37) (1) (1) (1) (1).png>)****
+****![](<../../.gitbook/assets/image (37) (1) (1) (1) (1) (1).png>)****
 
 {% hint style="success" %}
 **JT=简体中文**
