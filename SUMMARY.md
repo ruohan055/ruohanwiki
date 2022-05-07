@@ -168,3 +168,4 @@
   * [Delusion设置快捷键](gta5-cai-dan-jiao-cheng/delusion-gun-wang-xiang-jiao-cheng/delusion-she-zhi-kuai-jie-jian.md)
   * [Delusion任务教程](gta5-cai-dan-jiao-cheng/delusion-gun-wang-xiang-jiao-cheng/delusion-ren-wu-jiao-cheng.md)
   * [Delusion解绑教程](gta5-cai-dan-jiao-cheng/delusion-gun-wang-xiang-jiao-cheng/delusion-jie-bang-jiao-cheng.md)
+  * [Delusion更新日志](gta5-cai-dan-jiao-cheng/delusion-gun-wang-xiang-jiao-cheng/delusion-geng-xin-ri-zhi.md)

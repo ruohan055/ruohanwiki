@@ -54,7 +54,7 @@ coverY: 0
 
 **如下图操作：**
 
-****![](<../../.gitbook/assets/image (38) (1) (1).png>)****
+****![](<../../.gitbook/assets/image (38) (1) (1) (1).png>)****
 
 **点击注入后等待，等待游戏卡顿结束后即代表**<mark style="color:blue;">**注入成功**</mark>**！**
 
