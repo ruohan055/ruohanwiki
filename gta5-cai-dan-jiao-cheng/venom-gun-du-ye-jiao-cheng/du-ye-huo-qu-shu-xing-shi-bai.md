@@ -6,4 +6,4 @@
 **需要开启游戏进入故事并登陆R\*账号**
 {% endhint %}
 
-![](<../../.gitbook/assets/image (27).png>)
+![](<../../.gitbook/assets/image (28).png>)

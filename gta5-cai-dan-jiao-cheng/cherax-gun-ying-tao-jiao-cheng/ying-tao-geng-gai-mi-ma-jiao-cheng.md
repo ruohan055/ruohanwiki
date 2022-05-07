@@ -14,4 +14,4 @@
 
 {% embed url="https://cherax.vip/account/security" %}
 
-![](<../../.gitbook/assets/image (34).png>)
+![](<../../.gitbook/assets/image (35).png>)
