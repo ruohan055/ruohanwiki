@@ -8,7 +8,7 @@
 
 [**点击进入官网**](https://client.delusion.gg/login)
 
-![](<../../.gitbook/assets/image (53).png>)
+![](<../../.gitbook/assets/image (53) (1).png>)
 
 ![](<../../.gitbook/assets/image (20) (1).png>)
 

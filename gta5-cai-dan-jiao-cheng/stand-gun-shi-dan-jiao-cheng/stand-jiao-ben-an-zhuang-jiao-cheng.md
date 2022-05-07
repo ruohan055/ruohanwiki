@@ -4,7 +4,7 @@
 
 **安装器上安装<中文的任务lua脚本，可改分红，跳前置等等>**
 
-![](<../../.gitbook/assets/image (53) (1).png>)
+![](<../../.gitbook/assets/image (53) (1) (1).png>)
 
 ****![](<../../.gitbook/assets/image (29) (1) (1).png>)****
 

@@ -13,3 +13,5 @@
 **打开下方网址，按照图中操作**
 
 {% embed url="https://cherax.vip/account/security" %}
+
+![](<../../.gitbook/assets/image (34).png>)
