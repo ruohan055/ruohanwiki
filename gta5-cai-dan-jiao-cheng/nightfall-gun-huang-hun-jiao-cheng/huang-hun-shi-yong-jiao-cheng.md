@@ -32,13 +32,13 @@
 
 ## <mark style="color:red;">**2.下载：**</mark>
 
-![在使用新版本之前，你需要把文档下的Nightfall文件夹删除。](<../../.gitbook/assets/image (20) (1) (1) (1) (1).png>)
+![在使用新版本之前，你需要把文档下的Nightfall文件夹删除。](<../../.gitbook/assets/image (20) (1) (1) (1) (1) (1).png>)
 
 **官网下载最新注入器：**
 
 ![](../../.gitbook/assets/3f66ed722fd92244ff79aed8734f6106\_spaces%2F7YXEHggLzaiKwZjRSOD4%2Fuploads%2FYCvQA539Ii2oLeEmOckA%2FQQ%E5%9B%BE%E7%89%8720220501141839\_alt=media\&token=b10e68d9-33d3-49eb-969b-bd65a5974446.png)
 
-![](<../../.gitbook/assets/image (19) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (19) (1) (1) (1) (1) (1).png>)
 
 **然后进入游戏故事模式**
 

@@ -4,7 +4,7 @@
 
 **进入下载地址：**[**https://zh.gta5-mods.com/scripts/lefix-speedometer**](https://zh.gta5-mods.com/scripts/lefix-speedometer)****
 
-****![](<../../../.gitbook/assets/image (8) (1) (1) (1) (1).png>)****
+****![](<../../../.gitbook/assets/image (8) (1) (1) (1) (1) (1).png>)****
 
 **文件夹 以及文件**
 

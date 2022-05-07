@@ -10,7 +10,7 @@
 
 ![](<../../.gitbook/assets/image (53).png>)
 
-![](<../../.gitbook/assets/image (20).png>)
+![](<../../.gitbook/assets/image (20) (1).png>)
 
 **登录后跳转以下页面**
 

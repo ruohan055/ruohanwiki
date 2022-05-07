@@ -54,7 +54,7 @@
 **按F4呼出，更换电脑（包括第一次注入时）会显示HWID改变，选择Reset HWID即可**
 {% endhint %}
 
-![](<../../.gitbook/assets/image (20) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (20) (1) (1) (1) (1) (1) (1) (1).png>)
 
 ### **第二种方法：个人安装器**
 
@@ -76,7 +76,7 @@
 **按F4呼出，更换电脑（包括第一次注入时）会显示HWID改变，选择Reset HWID即可**
 {% endhint %}
 
-![](<../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1).png>)
 
 ## 3.使用：
 

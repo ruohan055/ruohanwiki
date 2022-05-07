@@ -73,13 +73,13 @@ coverY: 0
 
 **输入完邮箱密码后点击 **<mark style="color:red;">**LOG IN NOW**</mark>** 登陆**
 
-![](<../../.gitbook/assets/image (20) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (20) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (14) (1) (1) (1) (1) (1) (1) (1).png>)
 
 **然后点击**<mark style="color:red;">**START IT NOW**</mark>
 
-![](<../../.gitbook/assets/image (19) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (19) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 **随便选择一个中国服务器，点击后，然后会自动下载。**
 

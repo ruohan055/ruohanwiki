@@ -16,7 +16,7 @@ description: 这里只是列举午夜任务Lua做教程
 
 **把午夜任务Lua(heist\_control.lua)放到午夜文件夹的Lua里**
 
-****![](<../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1).png>)****
+****![](<../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)****
 
 {% hint style="info" %}
 **注入成功后自动启用**

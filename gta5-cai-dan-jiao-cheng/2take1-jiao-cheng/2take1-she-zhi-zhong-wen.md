@@ -24,7 +24,7 @@
 
 ## 2.游戏内设置：
 
-![](<../../.gitbook/assets/image (8) (1) (1).png>)
+![](<../../.gitbook/assets/image (8) (1) (1) (1).png>)
 
 **设置成 **<mark style="color:red;">**FW1**</mark>** 后点击 **<mark style="color:red;">**5**</mark>** 确定**
 
