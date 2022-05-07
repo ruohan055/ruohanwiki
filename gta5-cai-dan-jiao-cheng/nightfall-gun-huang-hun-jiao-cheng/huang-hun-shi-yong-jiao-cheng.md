@@ -60,7 +60,7 @@
 
 ![等待一会](../../.gitbook/assets/548e0acda94ce41754f43750aa7f412.png)
 
-![](<../../.gitbook/assets/image (29) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (29) (1) (1) (1) (1) (1).png>)
 
 **如上图所示代表注入成功，上面控制台不能关闭，请最小化**
 

@@ -22,18 +22,18 @@ coverY: 0
 
 ![](<../../.gitbook/assets/image (46).png>)
 
-![](<../../.gitbook/assets/image (27).png>)
+![](<../../.gitbook/assets/image (28).png>)
 
 {% hint style="danger" %}
 <mark style="color:red;">**注册的时候不能有中文跟特殊字符，不然会注册/注入不了**</mark>
 {% endhint %}
 
 ![
-](<../../.gitbook/assets/image (25).png>)
+](<../../.gitbook/assets/image (26).png>)
 
 > **【如果注册时下图的验证码无法显示】**
 >
-> ****![](<../../.gitbook/assets/image (28).png>)****
+> ****![](<../../.gitbook/assets/image (29).png>)****
 >
 > **查看解决教程：点击查看解决教程**
 
@@ -89,7 +89,7 @@ coverY: 0
 
 **按照下图操作**
 
-![](<../../.gitbook/assets/image (26).png>)
+![](<../../.gitbook/assets/image (27).png>)
 
 ![](<../../.gitbook/assets/image (18).png>)
 
@@ -111,7 +111,7 @@ coverY: 0
 
 ![](<../../.gitbook/assets/image (32).png>)
 
-![](<../../.gitbook/assets/image (23).png>)
+![](<../../.gitbook/assets/image (24).png>)
 
 {% hint style="info" %}
 **拖了后 你点进去Cherax文件夹是如上图所示才是成功**
@@ -121,7 +121,7 @@ coverY: 0
 
 **上面的步骤完成后，进入游戏故事模式，解压并运行在官网下载的注入器，按照下图操作**
 
-![](<../../.gitbook/assets/image (58).png>)
+![](<../../.gitbook/assets/image (59).png>)
 
 **程序加载后，按照下图操作：**
 
@@ -132,7 +132,7 @@ coverY: 0
 {% hint style="danger" %}
 **若一直卡在此界面，可尝试以下办法：**
 
-****<img src="../../.gitbook/assets/image (24).png" alt="" data-size="original">****
+****<img src="../../.gitbook/assets/image (25).png" alt="" data-size="original">****
 {% endhint %}
 
 ## **6.使用：**

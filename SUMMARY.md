@@ -190,4 +190,6 @@
 * [Rage 教程](gta5-cai-dan-jiao-cheng/rage-jiao-cheng.md)
 * [Cherax丨樱桃 教程](gta5-cai-dan-jiao-cheng/cherax-gun-ying-tao-jiao-cheng/README.md)
   * [樱桃使用教程](gta5-cai-dan-jiao-cheng/cherax-gun-ying-tao-jiao-cheng/ying-tao-shi-yong-jiao-cheng.md)
+  * [樱桃设置主题教程](gta5-cai-dan-jiao-cheng/cherax-gun-ying-tao-jiao-cheng/ying-tao-she-zhi-zhu-ti-jiao-cheng.md)
+  * [樱桃设置中文教程](gta5-cai-dan-jiao-cheng/cherax-gun-ying-tao-jiao-cheng/ying-tao-she-zhi-zhong-wen-jiao-cheng.md)
 * [PhantomX丨幻影 教程](gta5-cai-dan-jiao-cheng/phantomx-gun-huan-ying-jiao-cheng.md)

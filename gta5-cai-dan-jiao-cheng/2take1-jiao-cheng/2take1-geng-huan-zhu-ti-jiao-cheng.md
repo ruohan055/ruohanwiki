@@ -4,7 +4,7 @@
 
 **把主题放到以下路径：**
 
-![](<../../.gitbook/assets/image (56) (1).png>)
+![](<../../.gitbook/assets/image (56) (1) (1).png>)
 
 **（ps：主题图片只能放一个，否则无效）**
 

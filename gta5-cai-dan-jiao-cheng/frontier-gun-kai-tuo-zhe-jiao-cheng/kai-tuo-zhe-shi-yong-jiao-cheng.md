@@ -24,7 +24,7 @@ coverY: 0
 
 **输入完点击 **<mark style="color:blue;">**Register**</mark>** 进行注册**
 
-****![](<../../.gitbook/assets/image (29) (1) (1) (1) (1) (1) (1).png>)****
+****![](<../../.gitbook/assets/image (29) (1) (1) (1) (1) (1) (1) (1).png>)****
 
 ****![](<../../.gitbook/assets/image (49) (1) (1) (1).png>)****
 
