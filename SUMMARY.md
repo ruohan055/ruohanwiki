@@ -201,4 +201,7 @@
   * [樱桃呼出鼠标无法移动](gta5-cai-dan-jiao-cheng/cherax-gun-ying-tao-jiao-cheng/ying-tao-hu-chu-shu-biao-wu-fa-yi-dong.md)
   * [樱桃使用脚本教程](gta5-cai-dan-jiao-cheng/cherax-gun-ying-tao-jiao-cheng/ying-tao-shi-yong-jiao-ben-jiao-cheng.md)
   * [樱桃插件使用教程](gta5-cai-dan-jiao-cheng/cherax-gun-ying-tao-jiao-cheng/ying-tao-cha-jian-shi-yong-jiao-cheng.md)
-* [PhantomX丨幻影 教程](gta5-cai-dan-jiao-cheng/phantomx-gun-huan-ying-jiao-cheng.md)
+* [PhantomX丨幻影 教程](gta5-cai-dan-jiao-cheng/phantomx-gun-huan-ying-jiao-cheng/README.md)
+  * [幻影安装器使用教程](gta5-cai-dan-jiao-cheng/phantomx-gun-huan-ying-jiao-cheng/huan-ying-an-zhuang-qi-shi-yong-jiao-cheng.md)
+  * [幻影启动器使用教程](gta5-cai-dan-jiao-cheng/phantomx-gun-huan-ying-jiao-cheng/huan-ying-qi-dong-qi-shi-yong-jiao-cheng.md)
+  * [幻影按F5加载时左下角提示解析](gta5-cai-dan-jiao-cheng/phantomx-gun-huan-ying-jiao-cheng/huan-ying-an-f5-jia-zai-shi-zuo-xia-jiao-ti-shi-jie-xi.md)

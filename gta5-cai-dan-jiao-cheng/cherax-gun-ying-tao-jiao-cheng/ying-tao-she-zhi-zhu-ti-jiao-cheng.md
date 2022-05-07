@@ -2,19 +2,19 @@
 
 ## **售后群下载喜欢的主题文件**
 
-![](<../../.gitbook/assets/image (17).png>)
+![](<../../.gitbook/assets/image (19).png>)
 
 **WIN+R输入 %appdata%  (WIN就是键盘上的开始键)**
 
-![](<../../.gitbook/assets/image (44).png>)
+![](<../../.gitbook/assets/image (48).png>)
 
 **找到**<mark style="color:purple;">**Cherax**</mark>**文件夹**
 
-![](<../../.gitbook/assets/image (62).png>)
+![](<../../.gitbook/assets/image (68).png>)
 
-![](<../../.gitbook/assets/image (43).png>)
+![](<../../.gitbook/assets/image (47).png>)
 
-![](<../../.gitbook/assets/image (33).png>)
+![](<../../.gitbook/assets/image (37).png>)
 
 ## **游戏内操作：**
 
