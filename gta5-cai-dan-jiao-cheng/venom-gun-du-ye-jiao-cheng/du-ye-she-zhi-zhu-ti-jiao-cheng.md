@@ -8,6 +8,6 @@
 **比如后面写了RDR2的主题，只能在RDR2里使用**
 {% endhint %}
 
-![](<../../.gitbook/assets/image (52).png>)
+![](<../../.gitbook/assets/image (55).png>)
 
 ![](<../../.gitbook/assets/image (14).png>)

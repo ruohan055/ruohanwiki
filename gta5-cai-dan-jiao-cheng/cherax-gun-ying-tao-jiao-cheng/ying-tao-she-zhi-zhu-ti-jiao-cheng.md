@@ -6,15 +6,15 @@
 
 **WIN+R输入 %appdata%  (WIN就是键盘上的开始键)**
 
-![](<../../.gitbook/assets/image (40).png>)
+![](<../../.gitbook/assets/image (42).png>)
 
 **找到**<mark style="color:purple;">**Cherax**</mark>**文件夹**
 
-![](<../../.gitbook/assets/image (55).png>)
+![](<../../.gitbook/assets/image (59).png>)
 
-![](<../../.gitbook/assets/image (39).png>)
+![](<../../.gitbook/assets/image (41).png>)
 
-![](<../../.gitbook/assets/image (30).png>)
+![](<../../.gitbook/assets/image (31).png>)
 
 ## **游戏内操作：**
 

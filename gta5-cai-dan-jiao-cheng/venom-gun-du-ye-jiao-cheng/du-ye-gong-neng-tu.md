@@ -2,7 +2,7 @@
 
 ## **GTA5：**
 
-![](<../../.gitbook/assets/image (26).png>)
+![](<../../.gitbook/assets/image (27).png>)
 
 ## **RDR2：**
 

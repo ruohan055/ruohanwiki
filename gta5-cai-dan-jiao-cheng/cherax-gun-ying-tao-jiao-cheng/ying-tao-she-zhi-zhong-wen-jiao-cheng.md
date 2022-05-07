@@ -2,26 +2,26 @@
 
 **售后群下载中文文件**
 
-![](<../../.gitbook/assets/image (62).png>)
+![](<../../.gitbook/assets/image (67).png>)
 
 **WIN+R输入 %appdata%  (WIN就是键盘上的开始键)**
 
-![](<../../.gitbook/assets/image (28).png>)
+![](<../../.gitbook/assets/image (29).png>)
 
 **点击确定，找到**<mark style="color:purple;">**Cherax**</mark>**文件夹**
 
-![](<../../.gitbook/assets/image (42).png>)
+![](<../../.gitbook/assets/image (44).png>)
 
 {% hint style="info" %}
 **找到**<mark style="color:purple;">**Translations**</mark>**文件夹【没有的话可以新建一个**<mark style="color:purple;">**Translations**</mark>**文件夹】**
 {% endhint %}
 
-![](<../../.gitbook/assets/image (27).png>)
+![](<../../.gitbook/assets/image (28).png>)
 
 **把翻译文件放到该文件夹中**
 
-![](<../../.gitbook/assets/image (45).png>)
+![](<../../.gitbook/assets/image (47).png>)
 
 **注入后，游戏内选择中文**
 
-![](<../../.gitbook/assets/image (31).png>)
+![](<../../.gitbook/assets/image (32).png>)

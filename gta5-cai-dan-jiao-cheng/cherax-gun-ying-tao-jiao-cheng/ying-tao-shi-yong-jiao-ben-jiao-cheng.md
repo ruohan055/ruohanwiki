@@ -8,7 +8,7 @@
 下载解压后**WIN+R输入**%appdata%
 {% endhint %}
 
-![](<../../.gitbook/assets/image (51).png>)
+![](<../../.gitbook/assets/image (54).png>)
 
 **把解压后的文件拖到以下目录里**
 
@@ -16,6 +16,6 @@
 
 ## **游戏内操作：**
 
-![](<../../.gitbook/assets/image (59).png>)
+![](<../../.gitbook/assets/image (64).png>)
 
-![](<../../.gitbook/assets/image (57).png>)
+![](<../../.gitbook/assets/image (62).png>)
