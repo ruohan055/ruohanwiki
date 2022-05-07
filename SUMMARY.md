@@ -188,5 +188,6 @@
   * [毒液获取云端失败](gta5-cai-dan-jiao-cheng/venom-gun-du-ye-jiao-cheng/du-ye-huo-qu-yun-duan-shi-bai.md)
   * [毒液获取数据为空没有获取到游戏数据](gta5-cai-dan-jiao-cheng/venom-gun-du-ye-jiao-cheng/du-ye-huo-qu-shu-ju-wei-kong-mei-you-huo-qu-dao-you-xi-shu-ju.md)
 * [Rage 教程](gta5-cai-dan-jiao-cheng/rage-jiao-cheng.md)
-* [Cherax丨樱桃 教程](gta5-cai-dan-jiao-cheng/cherax-gun-ying-tao-jiao-cheng.md)
-* [幻影丨PhantomX 教程](gta5-cai-dan-jiao-cheng/huan-ying-gun-phantomx-jiao-cheng.md)
+* [Cherax丨樱桃 教程](gta5-cai-dan-jiao-cheng/cherax-gun-ying-tao-jiao-cheng/README.md)
+  * [樱桃使用教程](gta5-cai-dan-jiao-cheng/cherax-gun-ying-tao-jiao-cheng/ying-tao-shi-yong-jiao-cheng.md)
+* [PhantomX丨幻影 教程](gta5-cai-dan-jiao-cheng/phantomx-gun-huan-ying-jiao-cheng.md)
