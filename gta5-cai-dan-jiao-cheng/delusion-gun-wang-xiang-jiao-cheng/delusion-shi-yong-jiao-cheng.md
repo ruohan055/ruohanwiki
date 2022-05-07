@@ -14,7 +14,7 @@
 
 **登录后跳转以下页面**
 
-![](<../../.gitbook/assets/image (52).png>)
+![](<../../.gitbook/assets/image (52) (1).png>)
 
 ## **2.注入：**
 
@@ -40,7 +40,7 @@
 
 ![](<../../.gitbook/assets/image (25) (1).png>)
 
-![](<../../.gitbook/assets/image (23).png>)
+![](<../../.gitbook/assets/image (23) (1).png>)
 
 ![](../../.gitbook/assets/802c33f82b550d28f0f26305fef5203b\_spaces%2F7YXEHggLzaiKwZjRSOD4%2Fuploads%2FlbEskP5MKeh1maJuttUM%2Fimage%20\(7\)\_alt=media\&token=a0539d53-7a45-4eb2-9d1f-67b422e71788.png)
 
@@ -55,7 +55,7 @@
 
 <mark style="color:red;">**否则下次注入就会失败！**</mark>
 
-<mark style="color:red;">****</mark>![](<../../.gitbook/assets/image (18).png>)<mark style="color:red;">****</mark>
+<mark style="color:red;">****</mark>![](<../../.gitbook/assets/image (18) (1).png>)<mark style="color:red;">****</mark>
 {% endhint %}
 
 ## **3.使用：**

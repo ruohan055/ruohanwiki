@@ -16,7 +16,7 @@
 **是解压缩之后的文件夹 放在 Themes**
 {% endhint %}
 
-![](<../../.gitbook/assets/image (23) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (23) (1) (1) (1) (1) (1).png>)
 
 ## **游戏内设置：**
 

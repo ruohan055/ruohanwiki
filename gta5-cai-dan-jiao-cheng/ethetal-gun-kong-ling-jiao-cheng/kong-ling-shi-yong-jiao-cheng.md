@@ -4,7 +4,7 @@
 
 **进入官网：**[**https://etherealmenu.cn/**](https://etherealmenu.cn)****
 
-![](<../../.gitbook/assets/image (36) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (36) (1) (1) (1) (1).png>)
 
 {% hint style="danger" %}
 <mark style="color:red;">**注册的时候不能有中文和特殊符号，不然会注册不了，必须是英文**</mark>
@@ -30,7 +30,7 @@
 
 **群文件下载Et官方注入器：**
 
-![](<../../.gitbook/assets/image (39) (1).png>)
+![](<../../.gitbook/assets/image (39) (1) (1).png>)
 
 ## <mark style="color:red;">**3.安装：**</mark>
 

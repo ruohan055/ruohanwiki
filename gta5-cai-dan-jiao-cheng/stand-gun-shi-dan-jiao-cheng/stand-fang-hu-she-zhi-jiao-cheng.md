@@ -6,7 +6,7 @@ description: 更新时间：2021-08-23 17:12
 
 ## **打开stand文件**
 
-![](<../../.gitbook/assets/image (36) (1).png>)
+![](<../../.gitbook/assets/image (36) (1) (1).png>)
 
 ****[**点击下载配置文件**](https://ruohandocs.lanzouq.com/b036zbjhc)****
 

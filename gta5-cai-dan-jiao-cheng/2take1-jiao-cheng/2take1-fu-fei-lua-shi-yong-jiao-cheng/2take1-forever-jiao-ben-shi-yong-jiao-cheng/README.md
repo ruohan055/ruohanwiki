@@ -18,7 +18,7 @@
 
 <mark style="color:purple;">**鼠标右键管理员运行**</mark>
 
-<mark style="color:purple;">****</mark>![](<../../../../.gitbook/assets/image (31) (1) (1).png>)<mark style="color:purple;">****</mark>
+<mark style="color:purple;">****</mark>![](<../../../../.gitbook/assets/image (31) (1) (1) (1).png>)<mark style="color:purple;">****</mark>
 
 <mark style="color:purple;">****</mark>![](<../../../../.gitbook/assets/image (16) (1) (1).png>)<mark style="color:purple;">****</mark>
 

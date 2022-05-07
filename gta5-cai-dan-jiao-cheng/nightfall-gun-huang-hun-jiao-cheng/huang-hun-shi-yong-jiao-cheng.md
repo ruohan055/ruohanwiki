@@ -26,7 +26,7 @@
 
 **登录后如图操作：**
 
-![](<../../.gitbook/assets/image (18) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (18) (1) (1) (1) (1) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (9) (1) (1) (1) (1).png>)
 
@@ -44,7 +44,7 @@
 
 **如下图操作：**
 
-![](<../../.gitbook/assets/image (52) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (52) (1) (1) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (15) (1) (1) (1).png>)
 

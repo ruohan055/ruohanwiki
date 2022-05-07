@@ -32,7 +32,7 @@
 
 **出现下图代表注入成功**
 
-****![](<../../../../.gitbook/assets/image (13).png>)****
+****![](<../../../../.gitbook/assets/image (13) (1).png>)****
 
 {% hint style="info" %}
 **注入完毕后注入器可关闭**

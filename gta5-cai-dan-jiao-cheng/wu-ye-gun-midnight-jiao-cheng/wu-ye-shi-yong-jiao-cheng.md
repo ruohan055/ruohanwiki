@@ -33,7 +33,7 @@ coverY: 0
 
 ![](<../../.gitbook/assets/image (15) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (13) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (13) (1) (1) (1) (1) (1) (1).png>)
 
 **出现下图跳转画面代表激活成功**
 

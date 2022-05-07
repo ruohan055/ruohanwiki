@@ -6,7 +6,7 @@
 
 **下载解压后放到以下目录**
 
-****![](<../../.gitbook/assets/image (39) (1) (1) (1).png>)****
+****![](<../../.gitbook/assets/image (39) (1) (1) (1) (1).png>)****
 
 {% hint style="danger" %}
 <mark style="color:red;">**你下的是什么文件，就把它解压后放到哪个文件夹里**</mark>

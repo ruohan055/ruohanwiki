@@ -28,9 +28,9 @@ coverY: 0
 
 ****![](<../../.gitbook/assets/image (49) (1) (1) (1).png>)****
 
-****![](<../../.gitbook/assets/image (52) (1) (1) (1) (1).png>)****
+****![](<../../.gitbook/assets/image (52) (1) (1) (1) (1) (1).png>)****
 
-****![](<../../.gitbook/assets/image (13) (1) (1).png>)****
+****![](<../../.gitbook/assets/image (13) (1) (1) (1).png>)****
 
 **右上角出现这提示代表激活成功**
 

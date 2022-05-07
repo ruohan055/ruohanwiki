@@ -6,6 +6,8 @@ coverY: 0
 
 # 樱桃使用教程
 
+##
+
 ## 1.注册：
 
 {% hint style="danger" %}
@@ -74,3 +76,33 @@ coverY: 0
 ![](<../../.gitbook/assets/image (42).png>)
 
 ![](<../../.gitbook/assets/image (17).png>)
+
+![](<../../.gitbook/assets/image (39).png>)
+
+![](<../../.gitbook/assets/image (52).png>)
+
+![](<../../.gitbook/assets/image (31).png>)
+
+![点击后即激活成功](<../../.gitbook/assets/image (36).png>)
+
+## 4.下载：
+
+**下载官网注入器**
+
+**按照下图操作**
+
+![](<../../.gitbook/assets/image (23).png>)
+
+![](<../../.gitbook/assets/image (18).png>)
+
+![](<../../.gitbook/assets/image (12).png>)
+
+**下载安装文件**
+
+**售**
+
+**下载解压后**
+
+**WIN+R输入 %appdata%  (WIN就是键盘上的开始键)**
+
+**把解压后的**<mark style="color:purple;">**Cherax**</mark>**文件拖到**

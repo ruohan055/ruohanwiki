@@ -26,7 +26,7 @@
 
 ![](<../../../.gitbook/assets/image (26).png>)
 
-![出现黑框代表注入成功](<../../../.gitbook/assets/image (31).png>)
+![出现黑框代表注入成功](<../../../.gitbook/assets/image (31) (1).png>)
 
 ## **2.使用：**
 

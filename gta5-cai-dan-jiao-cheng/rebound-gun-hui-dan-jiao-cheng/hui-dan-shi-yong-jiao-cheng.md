@@ -42,11 +42,11 @@ coverY: 0
 
 ![](<../../.gitbook/assets/image (33) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (23) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (23) (1) (1) (1) (1) (1) (1).png>)
 
 **然后点击左侧 **<mark style="color:orange;">**Login Panel**</mark>** 输入账号密码后点击 **<mark style="color:orange;">**Login**</mark>** 登录**
 
-![](<../../.gitbook/assets/image (36) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (36) (1) (1) (1) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (30) (1) (1) (1) (1) (1) (1).png>)
 
@@ -60,7 +60,7 @@ coverY: 0
 
 ![](<../../.gitbook/assets/image (35) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (18) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (18) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 {% hint style="danger" %}
 **上图这样代表注入成功**

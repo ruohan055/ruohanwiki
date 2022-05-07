@@ -8,4 +8,4 @@
 **下载后把中文文件放到C盘 **<mark style="color:blue;">**ZERO Translations**</mark>** 文件夹内**
 {% endhint %}
 
-![](<../../.gitbook/assets/image (13) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (13) (1) (1) (1) (1) (1).png>)
