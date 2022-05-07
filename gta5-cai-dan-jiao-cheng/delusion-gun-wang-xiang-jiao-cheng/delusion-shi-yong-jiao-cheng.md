@@ -26,11 +26,11 @@
 
 **输入激活码并点击 **<mark style="color:blue;">**login**</mark>**，如下图操作：**
 
-![](<../../.gitbook/assets/image (45).png>)
+![](<../../.gitbook/assets/image (45) (1).png>)
 
 **出现下图页面后，进入游戏故事模式，点击 **<mark style="color:purple;">**Inject**</mark>** 注入**
 
-![](<../../.gitbook/assets/image (51) (1) (1).png>)
+![](<../../.gitbook/assets/image (51) (1) (1) (1).png>)
 
 {% hint style="danger" %}
 <mark style="color:purple;">**Inject**</mark>**只需要点一次，点击注入后，随后不要乱点鼠标跟键盘，等待大概20\~30秒即可**

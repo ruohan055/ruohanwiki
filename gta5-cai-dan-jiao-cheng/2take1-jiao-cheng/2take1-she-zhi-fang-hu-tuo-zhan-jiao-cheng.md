@@ -6,7 +6,7 @@
 
 **找到并打开Lua文件夹**
 
-****![](<../../.gitbook/assets/image (45) (1).png>)****
+****![](<../../.gitbook/assets/image (45) (1) (1).png>)****
 
 ****![](<../../.gitbook/assets/image (52) (1) (1) (1).png>)****
 

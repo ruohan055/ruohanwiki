@@ -2,7 +2,7 @@
 
 **菜单注入后，选择此功能**
 
-![](<../../.gitbook/assets/image (43).png>)
+![](<../../.gitbook/assets/image (43) (1).png>)
 
 **会自动弹出网页**
 

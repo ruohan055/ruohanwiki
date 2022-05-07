@@ -20,9 +20,9 @@
 
 <mark style="color:purple;">****</mark>![](<../../../../.gitbook/assets/image (31) (1) (1) (1).png>)<mark style="color:purple;">****</mark>
 
-<mark style="color:purple;">****</mark>![](<../../../../.gitbook/assets/image (16) (1) (1).png>)<mark style="color:purple;">****</mark>
+<mark style="color:purple;">****</mark>![](<../../../../.gitbook/assets/image (16) (1) (1) (1).png>)<mark style="color:purple;">****</mark>
 
-<mark style="color:purple;">****</mark>![](<../../../../.gitbook/assets/image (51) (1) (1) (1) (1).png>)<mark style="color:purple;">****</mark>
+<mark style="color:purple;">****</mark>![](<../../../../.gitbook/assets/image (51) (1) (1) (1) (1) (1).png>)<mark style="color:purple;">****</mark>
 
 {% hint style="success" %}
 注入成功后会有提示，注入成功后关闭注入器即可

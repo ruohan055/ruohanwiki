@@ -10,7 +10,7 @@
 
 > **【如果注册时下图中的验证码无法显】**
 >
-> <img src="../../.gitbook/assets/image (50) (1) (1).png" alt="" data-size="original">
+> <img src="../../.gitbook/assets/image (50) (1) (1) (1).png" alt="" data-size="original">
 >
 > **【点此查看解决方法】**
 

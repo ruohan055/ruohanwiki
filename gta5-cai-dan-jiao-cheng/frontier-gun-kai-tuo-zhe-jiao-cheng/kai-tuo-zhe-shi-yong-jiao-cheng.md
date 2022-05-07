@@ -20,13 +20,13 @@ coverY: 0
 
 ![](<../../.gitbook/assets/image (22) (1) (1) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (48) (1) (1).png>)
+![](<../../.gitbook/assets/image (48) (1) (1) (1).png>)
 
 **输入完点击 **<mark style="color:blue;">**Register**</mark>** 进行注册**
 
 ****![](<../../.gitbook/assets/image (29) (1) (1) (1) (1) (1) (1) (1).png>)****
 
-****![](<../../.gitbook/assets/image (49) (1) (1) (1).png>)****
+****![](<../../.gitbook/assets/image (49) (1) (1) (1) (1).png>)****
 
 ****![](<../../.gitbook/assets/image (52) (1) (1) (1) (1) (1).png>)****
 
@@ -54,7 +54,7 @@ coverY: 0
 
 **如下图操作：**
 
-****![](<../../.gitbook/assets/image (38) (1) (1) (1) (1).png>)****
+****![](<../../.gitbook/assets/image (38) (1) (1) (1) (1) (1).png>)****
 
 **点击注入后等待，等待游戏卡顿结束后即代表**<mark style="color:blue;">**注入成功**</mark>**！**
 

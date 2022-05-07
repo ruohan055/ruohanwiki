@@ -12,11 +12,11 @@ coverY: 0
 
 **如下图操作：**
 
-![](<../../.gitbook/assets/image (16) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (16) (1) (1) (1) (1) (1) (1).png>)
 
 > **【如果注册时下图中的验证码无法显】**
 >
-> <img src="../../.gitbook/assets/image (50) (1) (1).png" alt="" data-size="original">
+> <img src="../../.gitbook/assets/image (50) (1) (1) (1).png" alt="" data-size="original">
 >
 > **【点此查看解决方法】**
 
@@ -40,7 +40,7 @@ coverY: 0
 
 **如下图操作：**
 
-![](<../../.gitbook/assets/image (33) (1) (1).png>)
+![](<../../.gitbook/assets/image (33) (1) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (23) (1) (1) (1) (1) (1) (1).png>)
 
@@ -48,7 +48,7 @@ coverY: 0
 
 ![](<../../.gitbook/assets/image (36) (1) (1) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (30) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (30) (1) (1) (1) (1) (1) (1) (1).png>)
 
 **随后如下图所示注入菜单**
 
@@ -58,7 +58,7 @@ coverY: 0
 **点击注入后等待**
 {% endhint %}
 
-![](<../../.gitbook/assets/image (35) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (35) (1) (1) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (18) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 

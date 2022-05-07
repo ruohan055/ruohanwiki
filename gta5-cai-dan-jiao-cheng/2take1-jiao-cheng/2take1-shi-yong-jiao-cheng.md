@@ -12,7 +12,7 @@
 
 **填写**<mark style="color:red;">**用户名(username)**</mark>**和**<mark style="color:red;">**邮箱(Email)**</mark>**，输入**<mark style="color:red;">**验证码**</mark>**，**<mark style="color:red;">**打勾**</mark>**同意协议。点**<mark style="color:red;">**Submit**</mark>**注册。**
 
-![](<../../.gitbook/assets/image (43) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (43) (1) (1) (1) (1).png>)
 
 **注册后，你邮箱会收到一封验证信（注意可能在垃圾箱），点击验证链接**
 
@@ -49,7 +49,7 @@
 
 **售后群下载安装器**
 
-![](<../../.gitbook/assets/image (45) (1) (1).png>)
+![](<../../.gitbook/assets/image (45) (1) (1) (1).png>)
 
 <mark style="color:purple;">**鼠标右键管理员运行**</mark>**注入器**
 

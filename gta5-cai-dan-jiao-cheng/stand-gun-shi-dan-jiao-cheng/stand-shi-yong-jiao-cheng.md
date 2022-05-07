@@ -58,7 +58,7 @@ coverY: 0
 
 **如图操作：**
 
-![](<../../.gitbook/assets/image (35).png>)
+![](<../../.gitbook/assets/image (35) (1).png>)
 
 ![](../../.gitbook/assets/spaces%2F7YXEHggLzaiKwZjRSOD4%2Fuploads%2F5Sh6Wyksq2Zl5CwSs31Q%2FStand%E5%AE%98%E7%BD%91%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%AD%E6%96%87%E6%B3%A8%E8%A7%A3.png)
 

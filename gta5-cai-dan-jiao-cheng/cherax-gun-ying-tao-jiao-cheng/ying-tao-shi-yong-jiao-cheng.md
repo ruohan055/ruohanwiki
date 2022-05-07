@@ -20,20 +20,20 @@ coverY: 0
 
 **按照下图操作：**
 
-![](<../../.gitbook/assets/image (46).png>)
+![](<../../.gitbook/assets/image (51).png>)
 
-![](<../../.gitbook/assets/image (28).png>)
+![](<../../.gitbook/assets/image (33).png>)
 
 {% hint style="danger" %}
 <mark style="color:red;">**注册的时候不能有中文跟特殊字符，不然会注册/注入不了**</mark>
 {% endhint %}
 
 ![
-](<../../.gitbook/assets/image (26).png>)
+](<../../.gitbook/assets/image (31).png>)
 
 > **【如果注册时下图的验证码无法显示】**
 >
-> ****![](<../../.gitbook/assets/image (29).png>)****
+> ****![](<../../.gitbook/assets/image (34).png>)****
 >
 > **查看解决教程：点击查看解决教程**
 
@@ -43,7 +43,7 @@ coverY: 0
 {% tab title="验证邮箱" %}
 **在注册完账号之后 在你注册时输入的**<mark style="color:purple;">**邮箱**</mark>**会收到**<mark style="color:purple;">**Cherax**</mark>**的邮件**
 
-![](<../../.gitbook/assets/image (11).png>)
+![](<../../.gitbook/assets/image (12).png>)
 
 **点击 **<mark style="color:purple;">**CONFIRM YOUR EMAIL**</mark>** 验证 ,然后查看激活教程**
 {% endtab %}
@@ -71,17 +71,17 @@ coverY: 0
 
 ## **3.激活：**
 
-![](<../../.gitbook/assets/image (42).png>)
+![](<../../.gitbook/assets/image (48).png>)
 
-![](<../../.gitbook/assets/image (17).png>)
+![](<../../.gitbook/assets/image (18).png>)
 
-![](<../../.gitbook/assets/image (40).png>)
+![](<../../.gitbook/assets/image (46).png>)
 
 ![](<../../.gitbook/assets/image (52).png>)
 
-![](<../../.gitbook/assets/image (31).png>)
+![](<../../.gitbook/assets/image (37).png>)
 
-![点击后即激活成功](<../../.gitbook/assets/image (36).png>)
+![点击后即激活成功](<../../.gitbook/assets/image (42).png>)
 
 ## 4.下载：
 
@@ -89,29 +89,29 @@ coverY: 0
 
 **按照下图操作**
 
-![](<../../.gitbook/assets/image (27).png>)
+![](<../../.gitbook/assets/image (32).png>)
 
-![](<../../.gitbook/assets/image (18).png>)
+![](<../../.gitbook/assets/image (19).png>)
 
-![](<../../.gitbook/assets/image (13).png>)
+![](<../../.gitbook/assets/image (14).png>)
 
 **下载安装文件**
 
 **售后群下载樱桃文件**
 
-![](<../../.gitbook/assets/image (39).png>)
+![](<../../.gitbook/assets/image (45).png>)
 
 **下载解压后**
 
 **WIN+R输入 %appdata%  (WIN就是键盘上的开始键)**
 
-****![](<../../.gitbook/assets/image (15).png>)****
+****![](<../../.gitbook/assets/image (17).png>)****
 
 **把解压后的**<mark style="color:purple;">**Cherax**</mark>**文件拖到**
 
-![](<../../.gitbook/assets/image (32).png>)
+![](<../../.gitbook/assets/image (39).png>)
 
-![](<../../.gitbook/assets/image (24).png>)
+![](<../../.gitbook/assets/image (29).png>)
 
 {% hint style="info" %}
 **拖了后 你点进去Cherax文件夹是如上图所示才是成功**
@@ -125,14 +125,14 @@ coverY: 0
 
 **程序加载后，按照下图操作：**
 
-![](<../../.gitbook/assets/image (37).png>)
+![](<../../.gitbook/assets/image (44).png>)
 
-![](<../../.gitbook/assets/image (20).png>)
+![](<../../.gitbook/assets/image (22).png>)
 
 {% hint style="danger" %}
 **若一直卡在此界面，可尝试以下办法：**
 
-****<img src="../../.gitbook/assets/image (25).png" alt="" data-size="original">****
+****<img src="../../.gitbook/assets/image (30).png" alt="" data-size="original">****
 {% endhint %}
 
 ## **6.使用：**
@@ -145,6 +145,6 @@ coverY: 0
 
 **DELETE键 呼出/隐藏菜单**
 
-![](<../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (10).png>)
 
 ****

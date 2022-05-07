@@ -115,4 +115,4 @@
 **或者售后群下载CMD日志显示工具**
 {% endhint %}
 
-![](<../../.gitbook/assets/image (30) (1) (1).png>)
+![](<../../.gitbook/assets/image (30) (1) (1) (1).png>)
