@@ -32,7 +32,9 @@
 
 ![](<../../.gitbook/assets/image (39) (1).png>)
 
-**解压文件并右键管理员打开**
+## <mark style="color:red;">**3.安装：**</mark>
+
+<mark style="color:blue;">**解压文件并右键管理员打开**</mark>
 
 **登录你注册激活的账户**
 
@@ -45,6 +47,10 @@
 ![](../../.gitbook/assets/2022-04-29\_113516.png)
 
 ![](../../.gitbook/assets/2022-04-29\_113940.png)
+
+![](../../.gitbook/assets/2022-04-29\_113917.png)
+
+![](../../.gitbook/assets/4FUZNMGG]F35G0GZ{}\(CA9D.jpg)
 
 ![](../../.gitbook/assets/P17TP}3MS2$T$7RP{ROR@\`J.jpg)
 
