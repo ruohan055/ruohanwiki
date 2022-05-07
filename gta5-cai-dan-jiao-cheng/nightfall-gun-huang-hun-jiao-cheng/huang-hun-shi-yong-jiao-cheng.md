@@ -38,7 +38,7 @@
 
 ![](../../.gitbook/assets/3f66ed722fd92244ff79aed8734f6106\_spaces%2F7YXEHggLzaiKwZjRSOD4%2Fuploads%2FYCvQA539Ii2oLeEmOckA%2FQQ%E5%9B%BE%E7%89%8720220501141839\_alt=media\&token=b10e68d9-33d3-49eb-969b-bd65a5974446.png)
 
-![](<../../.gitbook/assets/image (19) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (19) (1) (1) (1) (1).png>)
 
 **然后进入游戏故事模式**
 
@@ -60,7 +60,7 @@
 
 ![等待一会](../../.gitbook/assets/548e0acda94ce41754f43750aa7f412.png)
 
-![](<../../.gitbook/assets/image (29) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (29) (1) (1) (1) (1).png>)
 
 **如上图所示代表注入成功，上面控制台不能关闭，请最小化**
 

@@ -15,7 +15,7 @@
 **蓝奏云下载文件：**[**https://ruohandocs.lanzouq.com/iRKD8049dqxg**\
 ****](https://ruohandocs.lanzouq.com/b036z37pa)**密码:6t55**
 
-****![](<../../.gitbook/assets/image (32) (1).png>)****
+****![](<../../.gitbook/assets/image (32) (1) (1).png>)****
 
 **放到如图位置**\
 **呼出黄昏-ScriptHookV-menyoo**

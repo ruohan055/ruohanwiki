@@ -19,7 +19,7 @@
 
 **菜单设置-标题自行调节 配色方案自行调节即可**
 
-****![](<../../.gitbook/assets/image (37) (1).png>)****![](<../../.gitbook/assets/image (40) (1) (1).png>)****
+****![](<../../.gitbook/assets/image (37) (1) (1).png>)****![](<../../.gitbook/assets/image (40) (1) (1).png>)****
 
 ****
 

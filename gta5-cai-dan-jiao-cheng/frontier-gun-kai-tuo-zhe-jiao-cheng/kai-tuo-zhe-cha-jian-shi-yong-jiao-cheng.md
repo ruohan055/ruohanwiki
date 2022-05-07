@@ -24,6 +24,6 @@
 
 ## **Menyoo设置中文：**
 
-****![](<../../.gitbook/assets/image (29) (1) (1) (1) (1).png>)****
+****![](<../../.gitbook/assets/image (29) (1) (1) (1) (1) (1).png>)****
 
 ****![](<../../.gitbook/assets/image (17) (1) (1) (1) (1).png>)****

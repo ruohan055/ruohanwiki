@@ -30,7 +30,7 @@ coverY: 0
 
 **售后群下载注入器**
 
-![](<../../.gitbook/assets/image (32) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (32) (1) (1) (1) (1).png>)
 
 ## <mark style="color:red;">3.注入：</mark>
 

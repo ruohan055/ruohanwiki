@@ -22,7 +22,7 @@
 
 ## **2.游戏内操作：**
 
-![](<../../../.gitbook/assets/image (32).png>)
+![](<../../../.gitbook/assets/image (32) (1).png>)
 
 
 
@@ -32,6 +32,6 @@
 
 **打开脚本功能**
 
-![](<../../../.gitbook/assets/image (24) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (24) (1) (1) (1) (1).png>)
 
 **点进去后选择脚本启动**
