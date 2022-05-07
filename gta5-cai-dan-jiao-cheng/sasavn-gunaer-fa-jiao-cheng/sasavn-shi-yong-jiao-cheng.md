@@ -32,7 +32,7 @@
 
 **更新后点此登录**
 
-![](<../../.gitbook/assets/image (9) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (13) (1) (1) (1).png>)
 
@@ -46,7 +46,7 @@
 
 **注入完后游戏内会有下图提示：**
 
-![](<../../.gitbook/assets/image (10) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (10) (1) (1) (1) (1).png>)
 
 **出现上图提示代表注入成功**
 

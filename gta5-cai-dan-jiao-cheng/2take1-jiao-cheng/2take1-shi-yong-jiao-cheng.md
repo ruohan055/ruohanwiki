@@ -27,7 +27,7 @@
 
 **输入两次密码**
 
-![](<../../.gitbook/assets/image (41) (1).png>)
+![](<../../.gitbook/assets/image (41) (1) (1).png>)
 
 **设置密码完成后，注册工作结束！**
 

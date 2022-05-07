@@ -2,7 +2,7 @@
 
 **售后群下载中文文件**
 
-![](<../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1).png>)
 
 {% hint style="info" %}
 **下载后把中文文件放到C盘 **<mark style="color:blue;">**ZERO Translations**</mark>** 文件夹内**

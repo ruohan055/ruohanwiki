@@ -1,6 +1,6 @@
 # 2Take1注入时错误提示
 
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (10) (1).png>)
 
 {% hint style="success" %}
 **网络问题，可以尝试切换网络，关闭或打开加速器**

@@ -12,6 +12,6 @@
 
 **将自己喜欢的图片改成Png格式后放到以下目录**
 
-![](<../../.gitbook/assets/image (10) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (10) (1) (1) (1) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (6) (1) (1).png>)

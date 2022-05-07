@@ -17,7 +17,7 @@ coverY: 0
 <mark style="color:red;">**注册的时候不能有中文，不然会注册不了**</mark>
 {% endhint %}
 
-![](<../../.gitbook/assets/image (10) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (1).png>)
 
@@ -109,4 +109,4 @@ coverY: 0
 
 **按下图设置：**
 
-![](<../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1).png>)

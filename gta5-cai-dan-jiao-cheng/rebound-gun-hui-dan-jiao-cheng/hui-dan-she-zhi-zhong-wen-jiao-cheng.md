@@ -2,7 +2,7 @@
 
 ## **售后群下载中文文件**
 
-****![](<../../.gitbook/assets/image (9) (1) (1) (1) (1).png>)****
+****![](<../../.gitbook/assets/image (9) (1) (1) (1) (1) (1).png>)****
 
 {% hint style="info" %}
 **下载解压后将其放到：**<mark style="color:orange;">**我的文档>>Rebound>>Translations文件夹内**</mark>

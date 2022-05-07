@@ -30,6 +30,6 @@
 **把文件夹内的文件拖到Stand脚本文件夹内即可。**
 {% endhint %}
 
-****![](<../../.gitbook/assets/image (9).png>)****
+****![](<../../.gitbook/assets/image (9) (1).png>)****
 
 ****![](../../.gitbook/assets/b84383b8386c221fd3cc4be71db43beb\_spaces%2F7YXEHggLzaiKwZjRSOD4%2Fuploads%2Fc0kStYf4qsDDdlscZvva%2F8\_alt=media\&token=488fc780-3697-421c-a7af-2093e5bbfb9d.png)****

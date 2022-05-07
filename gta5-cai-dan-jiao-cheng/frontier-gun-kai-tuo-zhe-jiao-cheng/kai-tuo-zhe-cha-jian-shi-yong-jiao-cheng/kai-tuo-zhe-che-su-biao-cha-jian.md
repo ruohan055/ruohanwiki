@@ -10,13 +10,13 @@
 
 <mark style="color:blue;">**LeFixSpeedo / LeFixSpeedo.asi**</mark>** 全部放入开拓者脚本插件目录**
 
-****![](<../../../.gitbook/assets/image (41) (1) (1).png>)****
+****![](<../../../.gitbook/assets/image (41) (1) (1) (1).png>)****
 
 **我的文档 - Frontier - Scripts - 文件夹**
 
 **放入好之后 启动游戏 F4打开开拓者**
 
-****![](<../../../.gitbook/assets/image (10) (1).png>)****
+****![](<../../../.gitbook/assets/image (10) (1) (1).png>)****
 
 ****![](<../../../.gitbook/assets/image (17) (1) (1) (1).png>)****
 
