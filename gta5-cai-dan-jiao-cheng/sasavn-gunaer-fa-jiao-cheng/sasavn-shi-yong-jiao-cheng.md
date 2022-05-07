@@ -8,7 +8,7 @@
 
 ![](<../../.gitbook/assets/image (21) (1) (1) (1) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (26) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (26) (1) (1) (1) (1).png>)
 
 **点击注册后会跳转**
 
@@ -24,7 +24,7 @@
 
 **官网下载安装器**
 
-![](<../../.gitbook/assets/image (22) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (22) (1) (1) (1) (1) (1).png>)
 
 **打开后会自动更新**
 

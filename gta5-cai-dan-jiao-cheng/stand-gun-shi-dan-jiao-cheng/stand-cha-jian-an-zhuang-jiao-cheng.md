@@ -2,7 +2,7 @@
 
 ## **售后群下载安装器**
 
-![](<../../.gitbook/assets/image (22).png>)
+![](<../../.gitbook/assets/image (22) (1).png>)
 
 ## **游戏内操作：**
 
