@@ -34,6 +34,8 @@
 * [❓ 注入失败或游戏闪退](solve/README.md)
   * [⚠ 使用菜单游戏经常闪退自崩](solve/oo/README.md)
   * [⚠ 呼出后鼠标无法移动教程](solve/hu-chu-hou-shu-biao-hou-jiao-se-wu-fa-yi-dong.md)
+* [👤 Steam账号改资料教程](steam-zhang-hao-gai-zi-liao-jiao-cheng.md)
+* [👥 其他使用教程](qi-ta-shi-yong-jiao-cheng.md)
 
 ## GTA5菜单教程
 
