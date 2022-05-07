@@ -4,7 +4,7 @@
 
 [**点击进入升级地址**](https://stand.gg/account/) **并登录**
 
-![](<../../.gitbook/assets/image (42).png>)
+![](<../../.gitbook/assets/image (42) (1).png>)
 
 **输入升级key，然后点击 **<mark style="color:purple;">**UPGRADE**</mark>
 

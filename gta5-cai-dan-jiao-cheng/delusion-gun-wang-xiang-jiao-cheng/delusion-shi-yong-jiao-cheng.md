@@ -36,6 +36,24 @@
 <mark style="color:purple;">**Inject**</mark>**只需要点一次，点击注入后，随后不要乱点鼠标跟键盘，等待大概20\~30秒即可**
 {% endhint %}
 
-![](../../.gitbook/assets/2920e3772dfa905a453fabccdef093db\_spaces%2F7YXEHggLzaiKwZjRSOD4%2Fuploads%2FQzxaAo8a4H6AhR8QuTZ9%2Fimage%20\(4\)\_alt=media\&token=8415f991-8e61-4f48-b6aa-b2ecd8a14c1e.png)
+![](<../../.gitbook/assets/image (42).png>)
 
 ![](<../../.gitbook/assets/image (25).png>)
+
+![](<../../.gitbook/assets/image (23).png>)
+
+![](../../.gitbook/assets/802c33f82b550d28f0f26305fef5203b\_spaces%2F7YXEHggLzaiKwZjRSOD4%2Fuploads%2FlbEskP5MKeh1maJuttUM%2Fimage%20\(7\)\_alt=media\&token=a0539d53-7a45-4eb2-9d1f-67b422e71788.png)
+
+**等到出现上图页面**
+
+**选择**<mark style="color:purple;">**中文**</mark>** 点击**<mark style="color:purple;">**确认**</mark>
+
+**就注入成功了**
+
+## **3.使用：**
+
+**注入成功后**
+
+**`F5` 呼出/隐藏菜单**
+
+**`鼠标点击` 操控菜单**
