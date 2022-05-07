@@ -12,7 +12,7 @@
 
 **进入**<mark style="color:blue;">**游戏故事模式**</mark>
 
-![](<../../.gitbook/assets/image (12) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (12) (1) (1) (1) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (7) (1) (1) (1) (1) (1).png>)
 

@@ -6,7 +6,7 @@
 
 **如下图操作：**
 
-![](<../../.gitbook/assets/image (21) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (21) (1) (1) (1) (1) (1) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (26) (1) (1) (1) (1).png>)
 
@@ -24,11 +24,11 @@
 
 **官网下载安装器**
 
-![](<../../.gitbook/assets/image (22) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (22) (1) (1) (1) (1) (1) (1).png>)
 
 **打开后会自动更新**
 
-![](<../../.gitbook/assets/image (24) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (24) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 **更新后点此登录**
 
@@ -62,13 +62,13 @@
 
 ![](<../../.gitbook/assets/image (4) (1).png>)
 
-![](<../../.gitbook/assets/image (17) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (17) (1) (1) (1) (1) (1) (1) (1).png>)
 
 **左侧选择VN 然后输入账号密码 点击安装，最后进入游戏线下或线上模式点击注入**
 
 **注入完后游戏内会有下图提示：**
 
-![](<../../.gitbook/assets/image (11) (1) (1).png>)
+![](<../../.gitbook/assets/image (11) (1) (1) (1).png>)
 
 **出现上图提示代表**<mark style="color:green;">**注入成功**</mark>
 

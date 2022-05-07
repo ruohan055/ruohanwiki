@@ -16,6 +16,6 @@
 
 ![](../../.gitbook/assets/2791c547761bd799ce850657c8ae0339\_spaces%2F7YXEHggLzaiKwZjRSOD4%2Fuploads%2FJVSDyvq65iYUmzj7sAWf%2F5\_alt=media\&token=8f7834ab-6738-4db8-ae59-c5b3d1b80517.png)
 
-![](<../../.gitbook/assets/image (24) (1) (1).png>)
+![](<../../.gitbook/assets/image (24) (1) (1) (1).png>)
 
 **切换成功，享受游戏吧\~**

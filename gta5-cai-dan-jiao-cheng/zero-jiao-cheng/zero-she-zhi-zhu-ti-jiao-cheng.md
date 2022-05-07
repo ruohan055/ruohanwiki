@@ -2,7 +2,7 @@
 
 ## **售后群内下载主题文件**
 
-![](<../../.gitbook/assets/image (11) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (11) (1) (1) (1) (1).png>)
 
 **下载后解压把主题文件放到C盘 **<mark style="color:blue;">**ZERO Themes**</mark>** 文件夹内**
 

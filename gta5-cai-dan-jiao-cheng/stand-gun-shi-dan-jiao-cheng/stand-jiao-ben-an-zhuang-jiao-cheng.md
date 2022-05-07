@@ -12,11 +12,11 @@
 
 ****![](<../../.gitbook/assets/image (49).png>)****
 
-****![](<../../.gitbook/assets/image (44).png>)****
+****![](<../../.gitbook/assets/image (44) (1).png>)****
 
 **选择Chinese**
 
-****![](<../../.gitbook/assets/image (21).png>)****
+****![](<../../.gitbook/assets/image (21) (1).png>)****
 
 ### 手动安装
 

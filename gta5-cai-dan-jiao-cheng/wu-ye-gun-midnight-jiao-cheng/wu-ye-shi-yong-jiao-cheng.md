@@ -43,7 +43,7 @@ coverY: 0
 
 **售后群下载官方注入器**
 
-![](<../../.gitbook/assets/image (11) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (11) (1) (1) (1) (1) (1).png>)
 
 ## <mark style="color:red;">**3.注入：**</mark>
 
@@ -89,13 +89,13 @@ coverY: 0
 
 <mark style="color:red;">**弹出下图此窗口后进入游戏即可，会自动注入。**</mark>
 
-<mark style="color:red;">****</mark>![](<../../.gitbook/assets/image (12) (1) (1) (1) (1) (1).png>)<mark style="color:red;">****</mark>
+<mark style="color:red;">****</mark>![](<../../.gitbook/assets/image (12) (1) (1) (1) (1) (1) (1).png>)<mark style="color:red;">****</mark>
 
 {% hint style="danger" %}
 **以下窗口不能关，最小化即可**
 {% endhint %}
 
-![](<../../.gitbook/assets/image (17) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (17) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 **注入成功后**
 

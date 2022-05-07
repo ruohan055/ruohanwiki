@@ -10,7 +10,7 @@
 
 
 
-![](<../../.gitbook/assets/image (17) (1).png>)
+![](<../../.gitbook/assets/image (17) (1) (1).png>)
 
 {% hint style="success" %}
 **解绑时间没到，继续等待（冷却时间12小时）**
@@ -28,7 +28,7 @@
 
 ![](<../../.gitbook/assets/image (55) (1).png>)
 
-![](<../../.gitbook/assets/image (44) (1) (1).png>)
+![](<../../.gitbook/assets/image (44) (1) (1) (1).png>)
 
 {% hint style="success" %}
 **可能是网络问题，建议卸载2Take1**

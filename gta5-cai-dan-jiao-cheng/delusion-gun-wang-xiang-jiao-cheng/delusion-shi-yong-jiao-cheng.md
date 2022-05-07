@@ -36,9 +36,9 @@
 <mark style="color:purple;">**Inject**</mark>**只需要点一次，点击注入后，随后不要乱点鼠标跟键盘，等待大概20\~30秒即可**
 {% endhint %}
 
-![](<../../.gitbook/assets/image (42).png>)
+![](<../../.gitbook/assets/image (42) (1).png>)
 
-![](<../../.gitbook/assets/image (25).png>)
+![](<../../.gitbook/assets/image (25) (1).png>)
 
 ![](<../../.gitbook/assets/image (23).png>)
 

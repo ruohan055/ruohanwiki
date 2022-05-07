@@ -18,11 +18,11 @@
 **注册自己的账号密码，不要带符号和中文！**
 {% endhint %}
 
-![](<../../.gitbook/assets/image (12) (1) (1).png>)
+![](<../../.gitbook/assets/image (12) (1) (1) (1).png>)
 
 **注册好了输入自己注册的账号密码点登录**
 
-![](<../../.gitbook/assets/image (21) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (21) (1) (1) (1) (1) (1).png>)
 
 **登录后如图操作：**
 

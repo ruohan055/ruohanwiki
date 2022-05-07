@@ -4,7 +4,7 @@
 <mark style="color:red;">**查看以下错误提示：**</mark>
 {% endhint %}
 
-![或者：](<../../.gitbook/assets/image (17).png>)
+![或者：](<../../.gitbook/assets/image (17) (1).png>)
 
 ![](<../../.gitbook/assets/image (7).png>)
 
@@ -40,4 +40,4 @@
 
 ![](<../../.gitbook/assets/image (40) (1).png>)
 
-![](<../../.gitbook/assets/image (24) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (24) (1) (1) (1) (1).png>)

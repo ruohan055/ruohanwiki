@@ -24,7 +24,7 @@
 
 **然后按照下图操作：**
 
-****![](<../../../../.gitbook/assets/image (22) (1) (1) (1).png>)****
+****![](<../../../../.gitbook/assets/image (22) (1) (1) (1) (1).png>)****
 
 {% hint style="danger" %}
 <mark style="color:red;"><mark style="color:purple;">**注入器不能遮盖控制台，控制台也不能最小化**<mark style="color:purple;"></mark>

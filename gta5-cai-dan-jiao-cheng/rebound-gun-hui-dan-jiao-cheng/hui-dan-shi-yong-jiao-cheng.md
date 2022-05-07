@@ -20,11 +20,11 @@ coverY: 0
 >
 > **【点此查看解决方法】**
 
-![](<../../.gitbook/assets/image (12) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (12) (1) (1) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (46) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (46) (1) (1) (1) (1).png>)
 
 ## <mark style="color:red;">2.下载：</mark>
 

@@ -4,7 +4,7 @@
 
 **注入2Take1后-Lua脚本-加载控制台**
 
-![](<../../../../.gitbook/assets/image (21) (1) (1).png>)
+![](<../../../../.gitbook/assets/image (21) (1) (1) (1).png>)
 
 ![](<../../../../.gitbook/assets/image (14).png>)
 
@@ -14,7 +14,7 @@
 
 ## **2.售后群下载注入器**
 
-![](<../../../../.gitbook/assets/image (12) (1).png>)
+![](<../../../../.gitbook/assets/image (12) (1) (1).png>)
 
 <mark style="color:purple;">**鼠标右键管理员运行**</mark>
 

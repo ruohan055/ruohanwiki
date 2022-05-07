@@ -19,7 +19,7 @@
 **会提示你设置登陆密码，两行分别是密码和重复密码。**\
 
 
-![](<../../.gitbook/assets/image (24) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (24) (1) (1) (1) (1) (1) (1).png>)
 
 {% hint style="info" %}
 **检查你的邮件收件箱中是否有消息（可能在垃圾信箱），然后**<mark style="color:blue;">**单击内部连接**</mark>**以验证你的电子邮件地址**
@@ -43,7 +43,7 @@
 
 ![](<../../.gitbook/assets/image (13) (1).png>)
 
-![上图代表激活成功](<../../.gitbook/assets/image (21) (1) (1) (1).png>)
+![上图代表激活成功](<../../.gitbook/assets/image (21) (1) (1) (1) (1).png>)
 
 ## <mark style="color:red;">**3.安装：**</mark>
 
