@@ -4,7 +4,7 @@
 
 **进入官网：**[**https://etherealmenu.cn/**](https://etherealmenu.cn)****
 
-![](<../../.gitbook/assets/image (36) (1) (1).png>)
+![](<../../.gitbook/assets/image (36) (1) (1) (1).png>)
 
 {% hint style="danger" %}
 <mark style="color:red;">**注册的时候不能有中文和特殊符号，不然会注册不了**</mark>

@@ -32,7 +32,7 @@
 
 ## <mark style="color:red;">**2.下载：**</mark>
 
-![在使用新版本之前，你需要把文档下的Nightfall文件夹删除。](<../../.gitbook/assets/image (20) (1) (1) (1).png>)
+![在使用新版本之前，你需要把文档下的Nightfall文件夹删除。](<../../.gitbook/assets/image (20) (1) (1) (1) (1).png>)
 
 **官网下载最新注入器：**
 
@@ -44,13 +44,13 @@
 
 **如下图操作：**
 
-![](<../../.gitbook/assets/image (52) (1) (1).png>)
+![](<../../.gitbook/assets/image (52) (1) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (15) (1) (1).png>)
 
 **点击登录后，会提示下图安装完成**
 
-![](<../../.gitbook/assets/image (53) (1) (1).png>)
+![](<../../.gitbook/assets/image (53) (1) (1) (1).png>)
 
 {% hint style="info" %}
 **安装只需要一遍，除非你卸载了或者更换了电脑，否则下次只需要打开游戏注入菜单**

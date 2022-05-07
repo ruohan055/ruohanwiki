@@ -6,7 +6,7 @@
 
 **下载后解压把主题文件放到C盘 **<mark style="color:blue;">**ZERO Themes**</mark>** 文件夹内**
 
-![](<../../.gitbook/assets/image (20) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (20) (1) (1) (1) (1) (1) (1) (1).png>)
 
 ## 图片主题：
 

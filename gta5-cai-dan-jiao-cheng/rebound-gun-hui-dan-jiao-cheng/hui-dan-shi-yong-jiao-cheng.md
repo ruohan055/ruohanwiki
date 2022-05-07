@@ -46,7 +46,7 @@ coverY: 0
 
 **然后点击左侧 **<mark style="color:orange;">**Login Panel**</mark>** 输入账号密码后点击 **<mark style="color:orange;">**Login**</mark>** 登录**
 
-![](<../../.gitbook/assets/image (36) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (36) (1) (1) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (30) (1) (1) (1) (1) (1).png>)
 
