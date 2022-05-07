@@ -24,18 +24,18 @@ coverY: 0
 
 ![](<../../.gitbook/assets/image (46).png>)
 
-![](<../../.gitbook/assets/image (24).png>)
+![](<../../.gitbook/assets/image (25).png>)
 
 {% hint style="danger" %}
 <mark style="color:red;">**注册的时候不能有中文跟特殊字符，不然会注册/注入不了**</mark>
 {% endhint %}
 
 ![
-](<../../.gitbook/assets/image (22).png>)
+](<../../.gitbook/assets/image (23).png>)
 
 > **【如果注册时下图的验证码无法显示】**
 >
-> ****![](<../../.gitbook/assets/image (25).png>)****
+> ****![](<../../.gitbook/assets/image (26).png>)****
 >
 > **查看解决教程：点击查看解决教程**
 
@@ -77,7 +77,7 @@ coverY: 0
 
 ![](<../../.gitbook/assets/image (17).png>)
 
-![](<../../.gitbook/assets/image (39).png>)
+![](<../../.gitbook/assets/image (40).png>)
 
 ![](<../../.gitbook/assets/image (52).png>)
 
@@ -91,7 +91,7 @@ coverY: 0
 
 **按照下图操作**
 
-![](<../../.gitbook/assets/image (23).png>)
+![](<../../.gitbook/assets/image (24).png>)
 
 ![](<../../.gitbook/assets/image (18).png>)
 
@@ -99,10 +99,28 @@ coverY: 0
 
 **下载安装文件**
 
-**售**
+**售后群下载樱桃文件**
+
+![](<../../.gitbook/assets/image (39).png>)
 
 **下载解压后**
 
 **WIN+R输入 %appdata%  (WIN就是键盘上的开始键)**
 
+****![](<../../.gitbook/assets/image (14).png>)****
+
 **把解压后的**<mark style="color:purple;">**Cherax**</mark>**文件拖到**
+
+![](<../../.gitbook/assets/image (32).png>)
+
+![](<../../.gitbook/assets/image (22).png>)
+
+{% hint style="info" %}
+**拖了后 你点进去Cherax文件夹是如上图所示才是成功**
+{% endhint %}
+
+**上面的步骤完成后，进入游戏故事模式，解压并运行在官网下载的注入器，按照下图操作**
+
+![](<../../.gitbook/assets/image (58).png>)
+
+**程序加载后，按照下图操作：**

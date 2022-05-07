@@ -22,9 +22,9 @@
 
 ![](<../../../.gitbook/assets/image (29).png>)
 
-![](<../../../.gitbook/assets/image (26).png>)
+![](<../../../.gitbook/assets/image (26) (1).png>)
 
-![](<../../../.gitbook/assets/image (26).png>)
+![](<../../../.gitbook/assets/image (26) (1).png>)
 
 ![出现黑框代表注入成功](<../../../.gitbook/assets/image (31) (1).png>)
 

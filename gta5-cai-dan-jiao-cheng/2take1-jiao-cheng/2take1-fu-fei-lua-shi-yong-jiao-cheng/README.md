@@ -22,7 +22,7 @@
 
 ## **2.游戏内操作：**
 
-![](<../../../.gitbook/assets/image (32) (1).png>)
+![](<../../../.gitbook/assets/image (32) (1) (1).png>)
 
 
 

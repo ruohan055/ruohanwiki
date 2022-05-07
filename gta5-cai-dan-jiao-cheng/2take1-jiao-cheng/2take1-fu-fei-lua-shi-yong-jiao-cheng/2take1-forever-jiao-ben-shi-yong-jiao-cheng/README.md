@@ -6,7 +6,7 @@
 
 ![](<../../../../.gitbook/assets/image (21) (1) (1) (1).png>)
 
-![](<../../../../.gitbook/assets/image (14).png>)
+![](<../../../../.gitbook/assets/image (14) (1).png>)
 
 {% hint style="danger" %}
 <mark style="color:red;">**控制台不能最小化**</mark>

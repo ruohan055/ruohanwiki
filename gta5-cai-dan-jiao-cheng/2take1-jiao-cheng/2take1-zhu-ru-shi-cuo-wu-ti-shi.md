@@ -18,7 +18,7 @@
 
 
 
-![](<../../.gitbook/assets/image (58) (1).png>)
+![](<../../.gitbook/assets/image (58) (1) (1).png>)
 
 {% hint style="success" %}
 **你把程序打开了两遍**

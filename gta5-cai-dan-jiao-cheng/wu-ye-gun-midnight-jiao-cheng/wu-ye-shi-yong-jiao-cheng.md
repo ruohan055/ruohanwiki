@@ -75,7 +75,7 @@ coverY: 0
 
 ![](<../../.gitbook/assets/image (20) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (14) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (14) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 **然后点击**<mark style="color:red;">**START IT NOW**</mark>
 

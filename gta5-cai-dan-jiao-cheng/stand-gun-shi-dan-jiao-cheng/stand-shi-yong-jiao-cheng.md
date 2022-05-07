@@ -103,7 +103,7 @@ coverY: 0
 {% hint style="danger" %}
 <mark style="color:red;">**注意：如果你进入故事模式后是下图中的情况，说明你网络问题未连接到服务器**</mark>
 
-****![](<../../.gitbook/assets/image (58).png>)****
+****![](<../../.gitbook/assets/image (58) (1).png>)****
 
 **解决办法：**
 

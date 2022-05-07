@@ -2,7 +2,7 @@
 
 ## **1.注入2Take1并进入故事模式**
 
-![](<../../../../.gitbook/assets/image (14).png>)
+![](<../../../../.gitbook/assets/image (14) (1).png>)
 
 {% hint style="danger" %}
 <mark style="color:red;">**控制台不能最小化**</mark>

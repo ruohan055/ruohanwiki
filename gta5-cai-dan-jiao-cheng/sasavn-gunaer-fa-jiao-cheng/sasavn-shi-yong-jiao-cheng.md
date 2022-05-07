@@ -8,7 +8,7 @@
 
 ![](<../../.gitbook/assets/image (21) (1) (1) (1) (1) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (26) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (26) (1) (1) (1) (1) (1).png>)
 
 **点击注册后会跳转**
 

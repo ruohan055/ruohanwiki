@@ -2,7 +2,7 @@
 
 **nono代表没有，num代表小键盘**
 
-![](<../../.gitbook/assets/image (26) (1).png>)
+![](<../../.gitbook/assets/image (26) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (44) (1) (1).png>)
 

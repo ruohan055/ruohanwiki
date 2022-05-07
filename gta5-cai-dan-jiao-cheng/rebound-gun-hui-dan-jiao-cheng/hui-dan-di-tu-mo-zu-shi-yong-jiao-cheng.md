@@ -12,7 +12,7 @@
 
 **生成选项-地图**
 
-![](<../../.gitbook/assets/image (26) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (26) (1) (1) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (45) (1) (1) (1).png>)
 

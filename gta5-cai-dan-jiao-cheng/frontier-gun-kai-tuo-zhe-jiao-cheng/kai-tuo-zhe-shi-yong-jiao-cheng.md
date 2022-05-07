@@ -40,7 +40,7 @@ coverY: 0
 <mark style="color:blue;">**售后群-群文件-开拓者 下载安装器**</mark>
 {% endhint %}
 
-<mark style="color:blue;">****</mark>![](<../../.gitbook/assets/image (14) (1) (1) (1).png>)<mark style="color:blue;">****</mark>
+<mark style="color:blue;">****</mark>![](<../../.gitbook/assets/image (14) (1) (1) (1) (1).png>)<mark style="color:blue;">****</mark>
 
 ## <mark style="color:red;">**3.注入：**</mark>
 
