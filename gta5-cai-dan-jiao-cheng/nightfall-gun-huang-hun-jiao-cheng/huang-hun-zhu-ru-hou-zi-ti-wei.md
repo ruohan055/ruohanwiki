@@ -1,6 +1,6 @@
 # 黄昏注入后字体为？？？
 
-![](<../../.gitbook/assets/image (30) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (30) (1) (1) (1) (1).png>)
 
 **WIN+R 输入CMD 回车**
 

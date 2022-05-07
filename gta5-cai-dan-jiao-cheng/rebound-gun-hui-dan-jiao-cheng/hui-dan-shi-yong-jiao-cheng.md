@@ -48,7 +48,7 @@ coverY: 0
 
 ![](<../../.gitbook/assets/image (36) (1) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (30) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (30) (1) (1) (1) (1) (1) (1).png>)
 
 **随后如下图所示注入菜单**
 
