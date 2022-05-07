@@ -7,7 +7,7 @@
 ![](<../../.gitbook/assets/image (36) (1) (1) (1).png>)
 
 {% hint style="danger" %}
-<mark style="color:red;">**注册的时候不能有中文和特殊符号，不然会注册不了**</mark>
+<mark style="color:red;">**注册的时候不能有中文和特殊符号，不然会注册不了，必须是英文**</mark>
 {% endhint %}
 
 ![](../../.gitbook/assets/62@4H5\~0@FJLP%\`A1FQQ]MB.jpg)
@@ -40,7 +40,11 @@
 **进入故事模式后点击注入，注入成功后再进入线上模式**
 {% endhint %}
 
-![点击后等待注入](<../../.gitbook/assets/image (17) (1) (1).png>)
+**打开之后先点击安装再绑定你在官网注册激活的账号和密码**
+
+![](../../.gitbook/assets/2022-04-29\_113516.png)
+
+![](../../.gitbook/assets/2022-04-29\_113940.png)
 
 ![](../../.gitbook/assets/P17TP}3MS2$T$7RP{ROR@\`J.jpg)
 
