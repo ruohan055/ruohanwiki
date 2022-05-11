@@ -1,6 +1,6 @@
 ---
 cover: >-
-  ../../.gitbook/assets/20575b30775abd1fdbce0895355ad12b_spaces%2F7YXEHggLzaiKwZjRSOD4%2Fuploads%2FDzn5QW2DpoTlJHd45kA8%2FQQ%E5%9B%BE%E7%89%8720220415152429_alt=media&token=59f0ac57-1304-45a7-8726-d62321156154.png
+  ../../.gitbook/assets/20575b30775abd1fdbce0895355ad12b_spaces/7YXEHggLzaiKwZjRSOD4/uploads/Dzn5QW2DpoTlJHd45kA8/QQ%E5%9B%BE%E7%89%8720220415152429_alt=media&token=59f0ac57-1304-45a7-8726-d62321156154.png
 coverY: 0
 ---
 
@@ -28,12 +28,11 @@ coverY: 0
 <mark style="color:red;">**注册的时候不能有中文跟特殊字符，不然会注册/注入不了**</mark>
 {% endhint %}
 
-![
-](<../../.gitbook/assets/image (41).png>)
+![](<../../.gitbook/assets/image (41).png>)
 
 > **【如果注册时下图的验证码无法显示】**
 >
-> ****![](<../../.gitbook/assets/image (45).png>)****
+> ![](<../../.gitbook/assets/image (45).png>)
 >
 > **查看解决教程：点击查看解决教程**
 
@@ -103,9 +102,9 @@ coverY: 0
 
 **下载解压后**
 
-**WIN+R输入 %appdata%  (WIN就是键盘上的开始键)**
+**WIN+R输入 %appdata% (WIN就是键盘上的开始键)**
 
-****![](<../../.gitbook/assets/image (24).png>)****
+![](<../../.gitbook/assets/image (24).png>)
 
 **把解压后的**<mark style="color:purple;">**Cherax**</mark>**文件拖到**
 
@@ -132,7 +131,7 @@ coverY: 0
 {% hint style="danger" %}
 **若一直卡在此界面，可尝试以下办法：**
 
-****<img src="../../.gitbook/assets/image (40).png" alt="" data-size="original">****
+<img src="../../.gitbook/assets/image (40).png" alt="" data-size="original">
 {% endhint %}
 
 ## **6.使用：**
@@ -141,10 +140,10 @@ coverY: 0
 
 **点击 `INS/DEL` 呼出/隐藏菜单**
 
-&#x20;<mark style="color:red;">****</mark>** `鼠标点击` 操控菜单**
+<mark style="color:red;">\*\*\*\*</mark>\*\* `鼠标点击` 操控菜单\*\*
 
 **DELETE键 呼出/隐藏菜单**
 
 ![](<../../.gitbook/assets/image (11).png>)
 
-****
+***

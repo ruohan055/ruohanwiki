@@ -1,7 +1,6 @@
 ---
 cover: >-
-  ../../.gitbook/assets/858e8e813117e0664128640d2c3374a9_spaces%2F7YXEHggLzaiKwZjRSOD4%2Fuploads%2FOshr5ftXsFGrW6uqq5AM%2FQQ%E5%9B%BE%E7%89%8720220414131340_alt=media&token=582a84b5-32ee-497b-b089-0357dcdf2890
-  (1).png
+  ../../.gitbook/assets/858e8e813117e0664128640d2c3374a9_spaces/7YXEHggLzaiKwZjRSOD4/uploads/Oshr5ftXsFGrW6uqq5AM/QQ%E5%9B%BE%E7%89%8720220414131340_alt=media&token=582a84b5-32ee-497b-b089-0357dcdf2890%20(1).png
 coverY: 0
 ---
 
@@ -9,7 +8,7 @@ coverY: 0
 
 ## <mark style="color:red;">1.注册：</mark>
 
-**进入午夜官网：**[**https://midnight.im/**](https://midnight.im)****
+**进入午夜官网：**[**https://midnight.im/**](https://midnight.im)\*\*\*\*
 
 **如图操作：**
 
@@ -23,7 +22,7 @@ coverY: 0
 
 > **`【`如果注册时下图的验证码无法显示】**
 >
-> ****![](<../../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png>)****
+> ![](<../../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png>)
 >
 > **使用科学上网 或者 【点此查看解决方法】**
 
@@ -31,7 +30,7 @@ coverY: 0
 
 **按照下图复制你的激活码**
 
-![](<../../.gitbook/assets/image (15) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (15) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (13) (1) (1) (1) (1) (1) (1).png>)
 
@@ -59,7 +58,7 @@ coverY: 0
 <mark style="color:red;">**【先关闭退出Steam或Epic，再打开注入器】**</mark>
 {% endhint %}
 
-**将你下载好的注入器解压，解压后以 **<mark style="color:red;">**鼠标右键右键管理员身份运行**</mark> **打开下载的注入器**
+\*\*将你下载好的注入器解压，解压后以 \*\*<mark style="color:red;">**鼠标右键右键管理员身份运行**</mark> **打开下载的注入器**
 
 ![](<../../.gitbook/assets/image (3) (1) (1) (1).png>)
 
@@ -75,7 +74,7 @@ coverY: 0
 
 ![](<../../.gitbook/assets/image (20) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (14) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (14) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 **然后点击**<mark style="color:red;">**START IT NOW**</mark>
 
@@ -89,7 +88,7 @@ coverY: 0
 
 <mark style="color:red;">**弹出下图此窗口后进入游戏即可，会自动注入。**</mark>
 
-<mark style="color:red;">****</mark>![](<../../.gitbook/assets/image (12) (1) (1) (1) (1) (1) (1).png>)<mark style="color:red;">****</mark>
+![](<../../.gitbook/assets/image (12) (1) (1) (1) (1) (1) (1).png>)
 
 {% hint style="danger" %}
 **以下窗口不能关，最小化即可**
@@ -103,7 +102,7 @@ coverY: 0
 
 **点击 `INS` 呼出/隐藏菜单**
 
-&#x20;<mark style="color:red;">****</mark>** `鼠标点击` 操控菜单**
+<mark style="color:red;">\*\*\*\*</mark>\*\* `鼠标点击` 操控菜单\*\*
 
 ## <mark style="color:red;">**5.设置中文**</mark>
 

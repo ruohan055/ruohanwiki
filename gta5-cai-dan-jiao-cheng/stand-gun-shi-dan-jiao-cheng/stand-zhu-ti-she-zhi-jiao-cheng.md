@@ -12,9 +12,9 @@
 
 ## **游戏内操作：**
 
-![运行此脚本](../../.gitbook/assets/a15778f06ed3a0b9e3f97a867ff493f1\_spaces%2F7YXEHggLzaiKwZjRSOD4%2Fuploads%2FF5uokEoMQoDOKqKFB4fW%2F4\_alt=media\&token=2878f078-fbe2-4216-af59-3d1ea5a65632.png)
+![运行此脚本](../../.gitbook/assets/a15778f06ed3a0b9e3f97a867ff493f1\_spaces/7YXEHggLzaiKwZjRSOD4/uploads/F5uokEoMQoDOKqKFB4fW/4\_alt=media\&token=2878f078-fbe2-4216-af59-3d1ea5a65632.png)
 
-![](../../.gitbook/assets/2791c547761bd799ce850657c8ae0339\_spaces%2F7YXEHggLzaiKwZjRSOD4%2Fuploads%2FJVSDyvq65iYUmzj7sAWf%2F5\_alt=media\&token=8f7834ab-6738-4db8-ae59-c5b3d1b80517.png)
+![](../../.gitbook/assets/2791c547761bd799ce850657c8ae0339\_spaces/7YXEHggLzaiKwZjRSOD4/uploads/JVSDyvq65iYUmzj7sAWf/5\_alt=media\&token=8f7834ab-6738-4db8-ae59-c5b3d1b80517.png)
 
 ![](<../../.gitbook/assets/image (24) (1) (1) (1).png>)
 

@@ -1,6 +1,6 @@
 ---
 cover: >-
-  ../../.gitbook/assets/491ccfd126cee5d9ebda178ccdc19d3d_spaces%2F7YXEHggLzaiKwZjRSOD4%2Fuploads%2F5axZkTMABScXC0nsuPdM%2FHeaderedit2_alt=media&token=90237ab3-0cd6-458b-8895-262af93f372e.png
+  ../../.gitbook/assets/491ccfd126cee5d9ebda178ccdc19d3d_spaces/7YXEHggLzaiKwZjRSOD4/uploads/5axZkTMABScXC0nsuPdM/Headeredit2_alt=media&token=90237ab3-0cd6-458b-8895-262af93f372e.png
 coverY: 0
 ---
 
@@ -8,7 +8,7 @@ coverY: 0
 
 ## <mark style="color:red;">1.注册：</mark>
 
-**进入回弹官网：**[**https://reboundcheats.org/register/**](https://reboundcheats.org/register/)****
+**进入回弹官网：**[**https://reboundcheats.org/register/**](https://reboundcheats.org/register/)\*\*\*\*
 
 **如下图操作：**
 
@@ -36,7 +36,7 @@ coverY: 0
 
 **进入**<mark style="color:orange;">**游戏故事模式**</mark>
 
-**下载后 **<mark style="color:orange;">**鼠标右键右键管理员身份运行**</mark> **打开 **<mark style="color:orange;">**loader**</mark>
+\*\*下载后 \*\*<mark style="color:orange;">**鼠标右键右键管理员身份运行**</mark> \*\*打开 \*\*<mark style="color:orange;">**loader**</mark>
 
 **如下图操作：**
 
@@ -52,7 +52,7 @@ coverY: 0
 
 **随后如下图所示注入菜单**
 
-![](../../.gitbook/assets/e8c899cc0fbeebc8be4fbb19e7f2b0b9\_spaces%2F7YXEHggLzaiKwZjRSOD4%2Fuploads%2FV2EkmXTinDAUfwNCso1j%2Fimage%20\(1\)\_alt=media\&token=c84b03be-29cf-484c-bac3-823620fffab4.png)
+![](../../.gitbook/assets/e8c899cc0fbeebc8be4fbb19e7f2b0b9\_spaces/7YXEHggLzaiKwZjRSOD4/uploads/V2EkmXTinDAUfwNCso1j/image%20\(1\)\_alt=media\&token=c84b03be-29cf-484c-bac3-823620fffab4.png)
 
 {% hint style="info" %}
 **点击注入后等待**
@@ -78,4 +78,4 @@ coverY: 0
 
 **`回车键/Ent/5` 确定； `退格键/Back/0` 返回**
 
-****
+***

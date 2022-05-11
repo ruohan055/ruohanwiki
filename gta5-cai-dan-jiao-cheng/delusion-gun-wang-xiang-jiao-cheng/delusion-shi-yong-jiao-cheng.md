@@ -42,11 +42,11 @@
 
 ![](<../../.gitbook/assets/image (23) (1).png>)
 
-![](../../.gitbook/assets/802c33f82b550d28f0f26305fef5203b\_spaces%2F7YXEHggLzaiKwZjRSOD4%2Fuploads%2FlbEskP5MKeh1maJuttUM%2Fimage%20\(7\)\_alt=media\&token=a0539d53-7a45-4eb2-9d1f-67b422e71788.png)
+![](../../.gitbook/assets/802c33f82b550d28f0f26305fef5203b\_spaces/7YXEHggLzaiKwZjRSOD4/uploads/lbEskP5MKeh1maJuttUM/image%20\(7\)\_alt=media\&token=a0539d53-7a45-4eb2-9d1f-67b422e71788.png)
 
 **等到出现上图页面**
 
-**选择**<mark style="color:purple;">**中文**</mark>** 点击**<mark style="color:purple;">**确认**</mark>
+**选择**<mark style="color:purple;">**中文**</mark>\*\* 点击\*\*<mark style="color:purple;">**确认**</mark>
 
 **就注入成功了**
 
@@ -55,7 +55,7 @@
 
 <mark style="color:red;">**否则下次注入就会失败！**</mark>
 
-<mark style="color:red;">****</mark>![](<../../.gitbook/assets/image (18) (1).png>)<mark style="color:red;">****</mark>
+![](<../../.gitbook/assets/image (18) (1).png>)
 {% endhint %}
 
 ## **3.使用：**
@@ -68,4 +68,4 @@
 
 **鼠标移动，鼠标左键确定/操作，鼠标滚轮上下滑动**
 
-\
+\\
