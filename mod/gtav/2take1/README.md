@@ -6,7 +6,7 @@ description: 购买完成后均为终身使用，终身是指软件的生命周�
 
 ## <mark style="color:red;">1.菜单列表：</mark>
 
-![强烈推荐此菜单！！！！](../../../.gitbook/assets/7469e6bb7c9e5ae3329e0cfdf353fca6\_spaces%2F7YXEHggLzaiKwZjRSOD4%2Fuploads%2FmOIXXBotG44Ymtt5r1G6%2F2Take\_alt=media\&token=305270d6-2a2e-4e08-b30c-f00e59a8f7da.png)
+![强烈推荐此菜单](../../../.gitbook/assets/7469e6bb7c9e5ae3329e0cfdf353fca6\_spaces%2F7YXEHggLzaiKwZjRSOD4%2Fuploads%2FmOIXXBotG44Ymtt5r1G6%2F2Take\_alt=media\&token=305270d6-2a2e-4e08-b30c-f00e59a8f7da.png)
 
 ## <mark style="color:red;">2.功能图：</mark>
 
@@ -37,7 +37,7 @@ description: 购买完成后均为终身使用，终身是指软件的生命周�
 ## <mark style="color:red;">4.价格：</mark>
 
 * **2Take1 VIP40天卡：125￥**
-* **2Take1 VIP永久卡：  835￥ 【**[**点此购买**](https://ruohanfkw.shop/?code=ZnJvbT0xMDA2JmE9MiZiPTc2)**】**
+* **2Take1 VIP永久卡： 835￥ 【**[**点此购买**](https://ruohanfkw.shop/?code=ZnJvbT0xMDA2JmE9MiZiPTc2)**】**
 * <mark style="color:orange;">**此菜单有四款付费Lua脚本+10多款免费Lua脚本，购买后可在售后群文件下载使用**</mark>
 
 ## <mark style="color:red;">5.定位：</mark>

@@ -57,7 +57,7 @@ description: 购买完成后均为终身使用，终身是指软件的生命周�
 
 * **Stand 基础版：75 ￥**
 * **Stand 普通版：180 ￥**
-* **Stand 终极版：360 ￥** [【**点击购买】**](https://ruohanfkw.shop/?code=ZnJvbT0xMDA2JmE9MiZiPTc4)****
+* **Stand 终极版：360 ￥** [【**点击购买】**](https://ruohanfkw.shop/?code=ZnJvbT0xMDA2JmE9MiZiPTc4)\*\*\*\*
 
 ## <mark style="color:red;">6.定位：</mark>
 
@@ -65,4 +65,4 @@ description: 购买完成后均为终身使用，终身是指软件的生命周�
 
 ## <mark style="color:red;">7.</mark><mark style="color:red;">**自定义主题赏析：**</mark>
 
-![](../../../.gitbook/assets/469ce78b56c4351da79861a9ef61623b\_spaces%2F7YXEHggLzaiKwZjRSOD4%2Fuploads%2FuF33smVHU6Y9LfUcHHXx%2FQQ%E5%9B%BE%E7%89%8720220317125853\_alt=media\&token=1bf20d27-3508-4788-9d31-cdb82e39d9dd.png)
+![](../../../.gitbook/assets/469ce78b56c4351da79861a9ef61623b\_spaces/7YXEHggLzaiKwZjRSOD4/uploads/uF33smVHU6Y9LfUcHHXx/QQ%E5%9B%BE%E7%89%8720220317125853\_alt=media\&token=1bf20d27-3508-4788-9d31-cdb82e39d9dd.png)

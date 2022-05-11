@@ -2,7 +2,7 @@
 
 ## <mark style="color:red;">1.注册：</mark>
 
-**进入官网：**[**https://nightfall.menu/login**](https://nightfall.menu/login)****
+**进入官网：**[**https://nightfall.menu/login**](https://nightfall.menu/login)\*\*\*\*
 
 **如下图操作：**
 
@@ -36,7 +36,7 @@
 
 **官网下载最新注入器：**
 
-![](../../.gitbook/assets/3f66ed722fd92244ff79aed8734f6106\_spaces%2F7YXEHggLzaiKwZjRSOD4%2Fuploads%2FYCvQA539Ii2oLeEmOckA%2FQQ%E5%9B%BE%E7%89%8720220501141839\_alt=media\&token=b10e68d9-33d3-49eb-969b-bd65a5974446.png)
+![](../../.gitbook/assets/3f66ed722fd92244ff79aed8734f6106\_spaces/7YXEHggLzaiKwZjRSOD4/uploads/YCvQA539Ii2oLeEmOckA/QQ%E5%9B%BE%E7%89%8720220501141839\_alt=media\&token=b10e68d9-33d3-49eb-969b-bd65a5974446.png)
 
 ![](<../../.gitbook/assets/image (19) (1) (1) (1) (1) (1).png>)
 
@@ -70,6 +70,6 @@
 
 **方向键`↑`  `↓` 控制上下**
 
-**方向键`←`  `→`  控制左右**
+**方向键`←`  `→` 控制左右**
 
 **`回车键/Ent` 确定； `退格键/Back` 返回**

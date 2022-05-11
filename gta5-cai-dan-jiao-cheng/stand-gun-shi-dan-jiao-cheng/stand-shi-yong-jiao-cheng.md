@@ -1,6 +1,6 @@
 ---
 cover: >-
-  ../../.gitbook/assets/c6effd6bd356ce1c59bb21f5c7611899_spaces%2F7YXEHggLzaiKwZjRSOD4%2Fuploads%2FcicDvcWrd1lMODtysBlF%2FStandGlitchFav2_alt=media&token=77660bf7-2d69-466b-8b00-b1ccfd7f7b00.png
+  ../../.gitbook/assets/c6effd6bd356ce1c59bb21f5c7611899_spaces/7YXEHggLzaiKwZjRSOD4/uploads/cicDvcWrd1lMODtysBlF/StandGlitchFav2_alt=media&token=77660bf7-2d69-466b-8b00-b1ccfd7f7b00.png
 coverY: 0
 ---
 
@@ -16,7 +16,7 @@ coverY: 0
 <mark style="color:red;">**请严格按照以下教程操作,在不看教程的前提下误操作所导致的不可逆转的错误,皆由使用者自己承担!**</mark>
 {% endhint %}
 
-![](../../.gitbook/assets/bdc1caad7fff284330ffba7d60270500\_spaces%2F7YXEHggLzaiKwZjRSOD4%2Fuploads%2FeLdoTDrfkxFQ25jm9TTM%2FStand%E5%88%9B%E5%BB%BAID\_alt=media\&token=b53d464f-b717-4869-98b9-6392d8da343e.png)
+![](../../.gitbook/assets/bdc1caad7fff284330ffba7d60270500\_spaces/7YXEHggLzaiKwZjRSOD4/uploads/eLdoTDrfkxFQ25jm9TTM/Stand%E5%88%9B%E5%BB%BAID\_alt=media\&token=b53d464f-b717-4869-98b9-6392d8da343e.png)
 
 {% hint style="success" %}
 **关于账户ID的说明：**
@@ -48,7 +48,7 @@ coverY: 0
 
 **官方下载注入器：**
 
-****![](<../../.gitbook/assets/image (23) (1) (1) (1).png>)****
+![](<../../.gitbook/assets/image (23) (1) (1) (1).png>)
 
 ## **3.安装注入：**
 
@@ -60,7 +60,7 @@ coverY: 0
 
 ![](<../../.gitbook/assets/image (35) (1).png>)
 
-![](../../.gitbook/assets/spaces%2F7YXEHggLzaiKwZjRSOD4%2Fuploads%2F5Sh6Wyksq2Zl5CwSs31Q%2FStand%E5%AE%98%E7%BD%91%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%AD%E6%96%87%E6%B3%A8%E8%A7%A3.png)
+![](../../.gitbook/assets/spaces/7YXEHggLzaiKwZjRSOD4/uploads/5Sh6Wyksq2Zl5CwSs31Q/Stand%E5%AE%98%E7%BD%91%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%AD%E6%96%87%E6%B3%A8%E8%A7%A3.png)
 
 ![](<../../.gitbook/assets/image (19) (1) (1).png>)
 
@@ -76,7 +76,7 @@ coverY: 0
 
 {% tabs %}
 {% tab title="有小键盘" %}
-**小键盘 `+`  呼出/隐藏菜单**
+**小键盘 `+` 呼出/隐藏菜单**
 
 **小键盘`8`  `2` 控制上下**
 
@@ -103,11 +103,11 @@ coverY: 0
 {% hint style="danger" %}
 <mark style="color:red;">**注意：如果你进入故事模式后是下图中的情况，说明你网络问题未连接到服务器**</mark>
 
-****![](<../../.gitbook/assets/image (58) (1).png>)****
+![](<../../.gitbook/assets/image (58) (1).png>)
 
 **解决办法：**
 
-<mark style="color:blue;">**禁止使用免费加速器 以及 雷神/薄荷**</mark>** 加速器**
+<mark style="color:blue;">**禁止使用免费加速器 以及 雷神/薄荷**</mark>\*\* 加速器\*\*
 
 > **UU加速`模式3`**
 >
