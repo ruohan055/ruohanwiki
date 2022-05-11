@@ -24,7 +24,7 @@
     * [🔵 0Xcheats](mod/gtav/0x/README.md)
     * [♏ KM丨骑士](mod/gtav/km/README.md)
     * [🥓 Rebound丨回弹](mod/gtav/rebound/README.md)
-    * [® ® RAGE](mod/gtav/rage/README.md)
+    * [® RAGE](mod/gtav/rage/README.md)
     * [💤 ZERO丨Menu](mod/gtav/zero/README.md)
   * [Red Dead Redemption 2](mod/rdr2/README.md)
     * [🎃 South丨朝南](mod/rdr2/south/README.md)
