@@ -6,7 +6,7 @@
   * [❄ 菜单官网](wiki/website/README.md)
 * [🥶 菜单推荐](mod/README.md)
   * [Grand Theft Auto V](mod/gtav/README.md)
-    * [🈳 Ethetal丨空灵](mod/gtav/ethetal-gun-kong-ling.md)
+    * [🈳 Ethereal丨空灵](mod/gtav/ethetal-gun-kong-ling.md)
     * [👿 2Take1](mod/gtav/2take1/README.md)
       * [ZERO Lua功能图](mod/gtav/2take1/zerolua/README.md)
       * [21Pro Lua功能图](mod/gtav/2take1/21pro-lua-gong-neng-tu.md)
