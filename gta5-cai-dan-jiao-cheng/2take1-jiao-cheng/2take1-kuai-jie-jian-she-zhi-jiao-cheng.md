@@ -43,5 +43,5 @@
 **将Save=F9 修改为：Save=F3 然后保存**
 
 {% hint style="warning" %}
-<mark style="color:orange;"><mark style="color:yellow;">**更改快捷键后需要重新注入才会生效**<mark style="color:yellow;"></mark>
+<mark style="color:yellow;"><mark style="color:orange;">**更改快捷键后需要重新注入才会生效**<mark style="color:orange;"></mark>
 {% endhint %}

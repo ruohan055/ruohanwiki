@@ -1,6 +1,6 @@
 ---
 cover: >-
-  ../../.gitbook/assets/f43ef5fb45d538f8e96f1d7d548dd242_spaces/7YXEHggLzaiKwZjRSOD4/uploads/anLi8Q3NCIJrGE9SOhpd/QQ%E5%9B%BE%E7%89%8720210816194851_alt=media&token=76386e18-ccd0-4a63-bd46-2863b763716a.png
+  ../../.gitbook/assets/f43ef5fb45d538f8e96f1d7d548dd242_spaces%2F7YXEHggLzaiKwZjRSOD4%2Fuploads%2FanLi8Q3NCIJrGE9SOhpd%2FQQ%E5%9B%BE%E7%89%8720210816194851_alt=media&token=76386e18-ccd0-4a63-bd46-2863b763716a.png
 coverY: 0
 ---
 
@@ -16,7 +16,7 @@ coverY: 0
 
 ![](<../../.gitbook/assets/image (34).png>)
 
-**运行文件**<mark style="color:purple;">**PXLauncher.exe**</mark>\*\* (右键管理员打开)。\*\*
+**运行文件**<mark style="color:purple;">**PXLauncher.exe**</mark>** (右键管理员打开)。**
 
 **然后登陆**
 

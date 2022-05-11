@@ -4,9 +4,9 @@
 
 **售后群下载ZERO任务面板**
 
-![售后群也有视频教程，更加方便](<../../.gitbook/assets/image (14) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![售后群也有视频教程，更加方便](<../../.gitbook/assets/image (14) (1) (1) (1) (1) (1) (1) (1).png>)
 
-\*\*解压后 \*\*<mark style="color:blue;">**鼠标右键管理员运行**</mark>
+**解压后 **<mark style="color:blue;">**鼠标右键管理员运行**</mark>
 
 ## <mark style="color:red;">**2.注入：**</mark>
 

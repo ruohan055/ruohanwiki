@@ -14,7 +14,7 @@
 
 > **如果打开提示这个**
 >
-> ![](<../../../../.gitbook/assets/image (57) (1) (1).png>)
+> ****![](<../../../../.gitbook/assets/image (57) (1) (1).png>)****
 >
 > **点击查看解决方法**
 
@@ -24,15 +24,15 @@
 
 **然后按照下图操作：**
 
-![](<../../../../.gitbook/assets/image (22) (1) (1) (1) (1).png>)
+****![](<../../../../.gitbook/assets/image (22) (1) (1) (1) (1).png>)****
 
 {% hint style="danger" %}
-<mark style="color:purple;"><mark style="color:red;">**注入器不能遮盖控制台，控制台也不能最小化**<mark style="color:red;"></mark>
+<mark style="color:red;"><mark style="color:purple;">**注入器不能遮盖控制台，控制台也不能最小化**<mark style="color:purple;"></mark>
 {% endhint %}
 
 **出现下图代表注入成功**
 
-![](<../../../../.gitbook/assets/image (13) (1).png>)
+****![](<../../../../.gitbook/assets/image (13) (1).png>)****
 
 {% hint style="info" %}
 **注入完毕后注入器可关闭**
