@@ -2,7 +2,7 @@
 
 ## <mark style="color:red;">1.注册：</mark>
 
-**进入官网：**[**https://2take1.menu/register**](https://2take1.menu/register)****
+**进入官网：**[**https://2take1.menu/register**](https://2take1.menu/register)\*\*\*\*
 
 {% hint style="danger" %}
 <mark style="color:red;">**注册的时候不能有中文跟特殊字符，不然会注册/注入不了**</mark>
@@ -16,8 +16,7 @@
 
 **注册后，你邮箱会收到一封验证信（注意可能在垃圾箱），点击验证链接**
 
-**会提示你设置登陆密码，两行分别是密码和重复密码。**\
-
+**会提示你设置登陆密码，两行分别是密码和重复密码。**\\
 
 ![](<../../.gitbook/assets/image (24) (1) (1) (1) (1) (1) (1).png>)
 
@@ -33,7 +32,7 @@
 
 ## <mark style="color:red;">**2.激活：**</mark>
 
-**2Take1官网登录账号：**[**https://2take1.menu/login**](https://2take1.menu/login)****
+**2Take1官网登录账号：**[**https://2take1.menu/login**](https://2take1.menu/login)\*\*\*\*
 
 **登陆账户，如图输入自己注册的用户名和密码，点Submit登陆。**
 
@@ -49,7 +48,7 @@
 
 **售后群下载安装器**
 
-![](<../../.gitbook/assets/image (45) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (45) (1) (1) (1) (1).png>)
 
 <mark style="color:purple;">**鼠标右键管理员运行**</mark>**注入器**
 
@@ -83,4 +82,4 @@
 {% endtab %}
 {% endtabs %}
 
-****
+***

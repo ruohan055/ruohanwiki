@@ -6,7 +6,7 @@
 
 **【如果你已经登录了，可以忽略此步骤】**
 
-****
+***
 
 ## **第二步：**
 
@@ -14,4 +14,4 @@
 
 {% embed url="https://cherax.vip/account/security" %}
 
-![](<../../.gitbook/assets/image (43).png>)
+![](<../../.gitbook/assets/image (43) (2).png>)

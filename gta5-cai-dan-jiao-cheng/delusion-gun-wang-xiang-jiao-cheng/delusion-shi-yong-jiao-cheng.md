@@ -14,7 +14,7 @@
 
 **登录后跳转以下页面**
 
-![](<../../.gitbook/assets/image (52) (1).png>)
+![](<../../.gitbook/assets/image (52) (1) (1).png>)
 
 ## **2.注入：**
 
@@ -26,7 +26,7 @@
 
 **输入激活码并点击 **<mark style="color:blue;">**login**</mark>**，如下图操作：**
 
-![](<../../.gitbook/assets/image (45) (1).png>)
+![](<../../.gitbook/assets/image (45) (1) (1).png>)
 
 **出现下图页面后，进入游戏故事模式，点击 **<mark style="color:purple;">**Inject**</mark>** 注入**
 

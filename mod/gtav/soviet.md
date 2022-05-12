@@ -8,7 +8,7 @@
 
 ## <mark style="color:red;">**2.功能图：**</mark>
 
-![若看不清，请复制到桌面](<../../.gitbook/assets/image (52).png>)
+![若看不清，请复制到桌面](<../../.gitbook/assets/image (52) (1).png>)
 
 ## <mark style="color:red;">**3.特色：**</mark>
 
