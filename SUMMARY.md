@@ -209,3 +209,8 @@
   * [幻影更换主题](gta5-cai-dan-jiao-cheng/phantomx-gun-huan-ying-jiao-cheng/huan-ying-geng-huan-zhu-ti.md)
   * [幻影解绑教程](gta5-cai-dan-jiao-cheng/phantomx-gun-huan-ying-jiao-cheng/huan-ying-jie-bang-jiao-cheng.md)
   * [幻影保存设置](gta5-cai-dan-jiao-cheng/phantomx-gun-huan-ying-jiao-cheng/huan-ying-bao-cun-she-zhi.md)
+  * [幻影快捷键](gta5-cai-dan-jiao-cheng/phantomx-gun-huan-ying-jiao-cheng/huan-ying-kuai-jie-jian.md)
+  * [幻影常见问题](gta5-cai-dan-jiao-cheng/phantomx-gun-huan-ying-jiao-cheng/huan-ying-chang-jian-wen-ti.md)
+  * [幻影模组](gta5-cai-dan-jiao-cheng/phantomx-gun-huan-ying-jiao-cheng/huan-ying-mo-zu.md)
+  * [幻影更新公告](gta5-cai-dan-jiao-cheng/phantomx-gun-huan-ying-jiao-cheng/huan-ying-geng-xin-gong-gao.md)
+  * [幻影功能图](gta5-cai-dan-jiao-cheng/phantomx-gun-huan-ying-jiao-cheng/huan-ying-gong-neng-tu.md)
