@@ -22,13 +22,13 @@ coverY: 0
 
 **在这里，输入幻影账号和密码。**
 
-![](<../../.gitbook/assets/image (18).png>)
+![](<../../.gitbook/assets/image (18) (1).png>)
 
 **点击**<mark style="color:purple;">**Sign In**</mark>**登陆**
 
 **启动程序会自动检查互联网的新版本PX。如有必要，该计划提供更新。**
 
-![](<../../.gitbook/assets/image (76) (1).png>)
+![](<../../.gitbook/assets/image (76) (1) (1).png>)
 
 **查看程序的主页:**
 

@@ -28,6 +28,6 @@
 
 ## **Menyoo设置中文教程：**
 
-![](<../../.gitbook/assets/image (66).png>)
+![](<../../.gitbook/assets/image (66) (1).png>)
 
 ![](<../../.gitbook/assets/image (28).png>)

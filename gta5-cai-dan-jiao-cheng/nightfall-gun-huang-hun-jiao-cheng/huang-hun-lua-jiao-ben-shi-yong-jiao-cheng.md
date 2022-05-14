@@ -2,7 +2,7 @@
 
 ## **售后群下载Lua文件**
 
-![仅以这个Lua为例子](<../../.gitbook/assets/image (48) (1) (1) (1).png>)
+![仅以这个Lua为例子](<../../.gitbook/assets/image (48) (1) (1) (1) (1).png>)
 
 **解压后放到以下路径：C:\Users\你的用户名\Documents\Nightfall\lua**
 
