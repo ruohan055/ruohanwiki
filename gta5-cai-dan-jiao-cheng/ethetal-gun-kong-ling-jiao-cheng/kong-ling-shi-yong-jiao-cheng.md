@@ -2,7 +2,7 @@
 
 ## <mark style="color:red;">1.注册：</mark>
 
-**进入官网：**[**https://etherealmenu.cn/**](https://etherealmenu.cn)****
+**进入官网：**[**https://etherealmenu.cn/**](https://etherealmenu.cn)\*\*\*\*
 
 ![](<../../.gitbook/assets/image (36) (1) (1) (1) (1).png>)
 
@@ -18,7 +18,7 @@
 
 **登录完成点击头像找到激活码兑换接口**
 
-![](<../../.gitbook/assets/image (46) (1) (1).png>)
+![](<../../.gitbook/assets/image (46) (1) (1) (1).png>)
 
 **输入你的激活码，如果提示激活码已经被使用可能是bug，无视即可，如果注入不了，那就是激活码已被使用**
 
@@ -66,7 +66,7 @@
 
 **f8 呼出菜单**
 
-**2486 上下左右**&#x20;
+**2486 上下左右**
 
 **0返回**
 

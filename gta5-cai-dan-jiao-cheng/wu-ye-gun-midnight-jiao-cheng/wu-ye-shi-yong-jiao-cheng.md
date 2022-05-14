@@ -18,7 +18,7 @@ coverY: 0
 
 ![](<../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 > **`【`如果注册时下图的验证码无法显示】**
 >

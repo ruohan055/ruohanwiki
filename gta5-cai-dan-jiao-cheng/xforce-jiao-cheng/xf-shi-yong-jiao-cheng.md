@@ -10,13 +10,13 @@ coverY: 0
 
 **进入XF官网：**[**https://dashboard.xforce.menu/redeem.php**](https://dashboard.xforce.menu/redeem.php)
 
-![](<../../.gitbook/assets/image (45).png>)
+![](<../../.gitbook/assets/image (47).png>)
 
 {% hint style="danger" %}
 <mark style="color:red;">**XF的账号密码不能有符号 不然会注入不了！**</mark>
 {% endhint %}
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (3).png>)
 
 ![弹出此提示，说明你注册并激活成功了](<../../.gitbook/assets/image (50).png>)
 
@@ -38,11 +38,11 @@ coverY: 0
 
 **如下图操作：**
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (15).png>)
 
 **点击注入会出现下图，此控制台倒数结束后会自动关闭，属正常现象**
 
-![上图关闭后会自动弹出另外的弹框](<../../.gitbook/assets/image (52).png>)
+![上图关闭后会自动弹出另外的弹框](<../../.gitbook/assets/image (56).png>)
 
 ![然后出现上图，等加载完成，此黑框不能关闭，建议最小化](../../.gitbook/assets/d5b71ef792f5523100e5d1a0a9a6a7d7\_spaces%2F7YXEHggLzaiKwZjRSOD4%2Fuploads%2Fk6c4GPCgf4zvVLvvgNly%2FQQ%E5%9B%BE%E7%89%8720220424101545\_alt=media\&token=d1c2f2cb-6aa8-4806-a614-3074d8efca21.png)
 
@@ -56,8 +56,18 @@ coverY: 0
 
 **`*` 呼出/隐藏菜单**
 
+**/ 使用鼠标控制菜单**
+
 **小键盘`8`  `2` 控制上下**
 
 **小键盘`4`  `6` 控制左右**
 
 **小键盘`5` 确定； `0` 返回**
+
+**7：隐藏菜单；1：进入菜单**
+
+**+：添加标记点**
+
+**DEL：卸载菜单**
+
+**F9：紧急按钮**

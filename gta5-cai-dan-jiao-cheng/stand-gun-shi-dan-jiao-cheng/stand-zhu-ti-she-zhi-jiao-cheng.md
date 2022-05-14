@@ -6,7 +6,7 @@
 
 **压缩包类的主题文件 直接解压到C盘Stand目录即可**
 
-![](<../../.gitbook/assets/image (40) (1).png>)
+![](<../../.gitbook/assets/image (40) (1) (1).png>)
 
 **C:\Users\您的电脑名称\AppData\Roaming\Stand**
 

@@ -80,7 +80,7 @@ coverY: 0
 
 ![](<../../.gitbook/assets/image (50) (1).png>)
 
-![点击后即激活成功](<../../.gitbook/assets/image (56).png>)
+![点击后即激活成功](<../../.gitbook/assets/image (56) (1).png>)
 
 ## 4.下载：
 
@@ -120,7 +120,7 @@ coverY: 0
 
 **上面的步骤完成后，进入游戏故事模式，解压并运行在官网下载的注入器，按照下图操作**
 
-![](<../../.gitbook/assets/image (79).png>)
+![](<../../.gitbook/assets/image (79) (1).png>)
 
 **程序加载后，按照下图操作：**
 
@@ -131,7 +131,7 @@ coverY: 0
 {% hint style="danger" %}
 **若一直卡在此界面，可尝试以下办法：**
 
-<img src="../../.gitbook/assets/image (40).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (40) (1).png" alt="" data-size="original">
 {% endhint %}
 
 ## **6.使用：**

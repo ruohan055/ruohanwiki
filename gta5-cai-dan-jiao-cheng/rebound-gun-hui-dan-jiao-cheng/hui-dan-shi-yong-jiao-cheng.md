@@ -22,9 +22,9 @@ coverY: 0
 
 ![](<../../.gitbook/assets/image (12) (1) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1) (2).png>)
 
-![](<../../.gitbook/assets/image (46) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (46) (1) (1) (1) (1) (1).png>)
 
 ## <mark style="color:red;">2.下载：</mark>
 

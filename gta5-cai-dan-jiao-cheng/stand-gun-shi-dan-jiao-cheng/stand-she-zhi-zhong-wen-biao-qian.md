@@ -2,7 +2,7 @@
 
 ## 1.标签预览：
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 ## 2.**售后群下载文件：**
 

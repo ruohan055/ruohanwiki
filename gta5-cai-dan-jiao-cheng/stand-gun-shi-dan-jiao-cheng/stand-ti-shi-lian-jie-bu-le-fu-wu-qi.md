@@ -24,7 +24,7 @@
 >
 > **奇游加速器:使用`模式1/4`**
 
-****[**点击下载DNS优选软件**](https://ruohandocs.lanzouq.com/b036zbhng)****
+[**点击下载DNS优选软件**](https://ruohandocs.lanzouq.com/b036zbhng)
 
 <mark style="color:blue;">**密码:d8dp**</mark>
 
@@ -38,6 +38,6 @@
 
 ![](<../../.gitbook/assets/image (16) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (40) (1) (1).png>)
+![](<../../.gitbook/assets/image (40) (1) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (24) (1) (1) (1) (1).png>)

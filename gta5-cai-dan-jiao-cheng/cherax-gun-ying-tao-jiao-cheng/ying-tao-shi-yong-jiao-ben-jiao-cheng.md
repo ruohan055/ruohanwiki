@@ -16,6 +16,6 @@
 
 ## **游戏内操作：**
 
-![](<../../.gitbook/assets/image (74).png>)
+![](<../../.gitbook/assets/image (74) (1).png>)
 
 ![](<../../.gitbook/assets/image (72).png>)

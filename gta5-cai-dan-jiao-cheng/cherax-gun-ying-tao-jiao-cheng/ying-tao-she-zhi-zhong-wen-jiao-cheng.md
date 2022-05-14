@@ -2,7 +2,7 @@
 
 **售后群下载中文文件**
 
-![](<../../.gitbook/assets/image (78).png>)
+![](<../../.gitbook/assets/image (78) (1).png>)
 
 **WIN+R输入 %appdata% (WIN就是键盘上的开始键)**
 

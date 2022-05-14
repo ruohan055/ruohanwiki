@@ -12,11 +12,11 @@
 **C:\\-用户-Administrator-AppData-Roaming-Cherax-ASi**
 {% endhint %}
 
-![](<../../.gitbook/assets/image (58).png>)
+![](<../../.gitbook/assets/image (58) (2).png>)
 
 ![](<../../.gitbook/assets/image (71).png>)
 
-![](<../../.gitbook/assets/image (46).png>)
+![](<../../.gitbook/assets/image (46) (1).png>)
 
 **进入游戏内操作：**
 

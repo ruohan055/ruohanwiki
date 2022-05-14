@@ -12,12 +12,12 @@
 
 **如下图操作：**
 
-![](<../../../.gitbook/assets/image (57) (1).png>)
+![](<../../../.gitbook/assets/image (57) (1) (1).png>)
 
 {% hint style="danger" %}
 <mark style="color:red;">**注册的时候不能有中文跟特殊字符，不然会注册/注入不了**</mark>
 
-<mark style="color:red;">****</mark>
+<mark style="color:red;">\*\*\*\*</mark>
 {% endhint %}
 
 ![](<../../../.gitbook/assets/image (29) (1).png>)
@@ -38,7 +38,7 @@
 
 **`回车键/Ent/小键盘5` 确定； `退格键/Back/小键盘0` 返回**
 
-****
+***
 
 #### 注意事项
 

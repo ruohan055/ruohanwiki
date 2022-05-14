@@ -4,15 +4,15 @@
 
 ![](<../../.gitbook/assets/image (19).png>)
 
-**WIN+R输入 %appdata%  (WIN就是键盘上的开始键)**
+**WIN+R输入 %appdata% (WIN就是键盘上的开始键)**
 
-![](<../../.gitbook/assets/image (48).png>)
+![](<../../.gitbook/assets/image (48) (1).png>)
 
 **找到**<mark style="color:purple;">**Cherax**</mark>**文件夹**
 
 ![](<../../.gitbook/assets/image (68).png>)
 
-![](<../../.gitbook/assets/image (47).png>)
+![](<../../.gitbook/assets/image (47) (1).png>)
 
 ![](<../../.gitbook/assets/image (37).png>)
 

@@ -12,15 +12,14 @@
 
 ![](../../.gitbook/assets/6900e98bc30e4d1fb08df9d9240aa6f.png)
 
-\
-
+\\
 
 ## **游戏内设置：**
 
 **菜单设置-标题自行调节 配色方案自行调节即可**
 
-****![](<../../.gitbook/assets/image (37) (1) (1) (1).png>)****![](<../../.gitbook/assets/image (40) (1) (1) (1).png>)****
+![](<../../.gitbook/assets/image (37) (1) (1) (1).png>)![](<../../.gitbook/assets/image (40) (1) (1) (1) (1).png>)\*\*\*\*
 
-****
+***
 
-****
+***

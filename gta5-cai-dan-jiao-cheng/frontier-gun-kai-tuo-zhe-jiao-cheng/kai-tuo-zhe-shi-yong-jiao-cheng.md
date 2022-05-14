@@ -20,7 +20,7 @@ coverY: 0
 
 ![](<../../.gitbook/assets/image (22) (1) (1) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (48) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (48) (1) (1) (1) (1).png>)
 
 **输入完点击 **<mark style="color:blue;">**Register**</mark>** 进行注册**
 

@@ -16,6 +16,6 @@
 
 <mark style="color:orange;">**【解绑完成后，按照正常流程注入即可，注入成功自动绑定当前电脑】**</mark>
 
-![](<../../.gitbook/assets/image (15).png>)
+![](<../../.gitbook/assets/image (15) (1).png>)
 
-****
+***
