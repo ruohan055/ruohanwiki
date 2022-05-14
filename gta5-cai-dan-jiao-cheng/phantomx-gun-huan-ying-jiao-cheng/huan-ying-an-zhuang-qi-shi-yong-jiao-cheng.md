@@ -38,7 +38,7 @@
 
 如果按F5出现下图这个提示无需理会
 
-![](<../../.gitbook/assets/image (51).png>)
+![](<../../.gitbook/assets/image (51) (2).png>)
 
 需要看的是**cmd控制台黑色窗口**是否有**红色字体**
 

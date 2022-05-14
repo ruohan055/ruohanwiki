@@ -8,4 +8,4 @@
 
 <mark style="color:red;">****</mark>
 
-![](<../../.gitbook/assets/image (51).png>)
+![](<../../.gitbook/assets/image (51) (2).png>)

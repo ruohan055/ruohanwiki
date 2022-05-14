@@ -34,7 +34,7 @@ description: 在本店购买的用户请务必加入售后群，群内有一些�
 
 **然后打开Rage文件夹**
 
-![](../../.gitbook/assets/e4dd28d98e1c1e56b6a776b0f62d78dc\_spaces%2F7YXEHggLzaiKwZjRSOD4%2Fuploads%2F6UbuT5DMNxdNMpz0sYm4%2FQQ%E5%9B%BE%E7%89%8720220514212347\_alt=media\&token=0f3fc4fe-8554-459c-8784-922481eeeb38.png)
+![](<../../.gitbook/assets/e4dd28d98e1c1e56b6a776b0f62d78dc\_spaces%2F7YXEHggLzaiKwZjRSOD4%2Fuploads%2F6UbuT5DMNxdNMpz0sYm4%2FQQ%E5%9B%BE%E7%89%8720220514212347\_alt=media\&token=0f3fc4fe-8554-459c-8784-922481eeeb38 (1).png>)
 
 ![保存退出,然后下载官方注入器](<../../.gitbook/assets/image (81).png>)
 
