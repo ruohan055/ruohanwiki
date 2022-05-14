@@ -236,3 +236,5 @@
   * [碎片设置中文教程](gta5-cai-dan-jiao-cheng/fragment-gun-sui-pian-jiao-cheng/sui-pian-she-zhi-zhong-wen-jiao-cheng.md)
   * [碎片解绑教程](gta5-cai-dan-jiao-cheng/fragment-gun-sui-pian-jiao-cheng/sui-pian-jie-bang-jiao-cheng.md)
   * [碎片刷金教程](gta5-cai-dan-jiao-cheng/fragment-gun-sui-pian-jiao-cheng/sui-pian-shua-jin-jiao-cheng.md)
+* [XCheats 教程](gta5-cai-dan-jiao-cheng/xcheats-jiao-cheng/README.md)
+  * [XC使用教程](gta5-cai-dan-jiao-cheng/xcheats-jiao-cheng/xc-shi-yong-jiao-cheng.md)
