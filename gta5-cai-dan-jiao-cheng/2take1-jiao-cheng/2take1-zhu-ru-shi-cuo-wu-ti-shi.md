@@ -8,15 +8,11 @@
 **或者下载Golink加速器 加速GTA5 重新打开2Take1**
 {% endhint %}
 
-
-
 ![](<../../.gitbook/assets/image (17) (1) (1).png>)
 
 {% hint style="success" %}
 **解绑时间没到，继续等待（冷却时间12小时）**
 {% endhint %}
-
-
 
 ![](<../../.gitbook/assets/image (58) (1) (1).png>)
 
@@ -24,9 +20,7 @@
 **你把程序打开了两遍**
 {% endhint %}
 
-
-
-![](<../../.gitbook/assets/image (55) (1) (1).png>)
+![](<../../.gitbook/assets/image (55) (1) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (44) (1) (1) (1).png>)
 

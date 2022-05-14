@@ -10,21 +10,21 @@ description: 购买完成后均为终身使用，终身是指软件的生命周�
 
 ## <mark style="color:red;">2.功能图：</mark>
 
-**此菜单还未发布，正在内测**
+****
 
 ## <mark style="color:red;">3.特色：</mark>
 
 {% hint style="success" %}
-* **非套壳菜单全自主开发**&#x20;
-* **任务功能分红齐全**&#x20;
-* **主题功能极其丰富**&#x20;
-* **基础功能非常全面**&#x20;
+* **非套壳菜单全自主开发**
+* **任务功能分红齐全**
+* **主题功能极其丰富**
+* **基础功能非常全面**
 * **具有取消同步和强大崩溃（可崩Stand）**
 {% endhint %}
 
 ## <mark style="color:red;">4.价格：</mark>
 
-**SOON                  【**[**点此购买**](https://ruohanfkw.shop)**】**
+&#x20;**RAGE    80￥【**[**点此购买**](https://ruohanfkw.shop)**】**
 
 ## <mark style="color:red;">5.定位：</mark>
 

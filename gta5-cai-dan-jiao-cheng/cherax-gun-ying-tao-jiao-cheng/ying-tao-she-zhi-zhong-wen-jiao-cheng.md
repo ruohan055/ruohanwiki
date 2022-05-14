@@ -20,7 +20,7 @@
 
 **把翻译文件放到该文件夹中**
 
-![](<../../.gitbook/assets/image (55).png>)
+![](<../../.gitbook/assets/image (55) (1).png>)
 
 **注入后，游戏内选择中文**
 
