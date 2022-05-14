@@ -2,7 +2,7 @@
 
 ## **售后群下载主题文件：**
 
-![](<../../.gitbook/assets/image (45).png>)
+![](<../../.gitbook/assets/image (45) (1).png>)
 
 ## **游戏内操作：**
 

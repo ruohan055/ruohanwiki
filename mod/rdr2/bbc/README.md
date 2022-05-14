@@ -45,13 +45,13 @@
 * <mark style="color:blue;">**7.BBC绑定游戏ID，不换号无需解绑，不限制机器使用**</mark>
 * <mark style="color:blue;">**8.毒液绑定电脑IP，不换网络不升级系统不换电脑无需解绑，可在同设备上登入多号。**</mark>
 * <mark style="color:blue;">**9.毒液没有生成死亡状态，麻醉状态的动物，BBC可以**</mark>
-* <mark style="color:blue;">****</mark>![](<../../../.gitbook/assets/image (2) (1) (1) (1).png>)<mark style="color:blue;">****</mark>![](<../../../.gitbook/assets/image (3) (1) (1) (1) (1).png>)<mark style="color:blue;">****</mark>
+* ![](<../../../.gitbook/assets/image (2) (1) (1) (1) (1).png>)![](<../../../.gitbook/assets/image (3) (1) (1) (1) (1).png>)<mark style="color:blue;">\*\*\*\*</mark>
 * **如图所示：数据十分的异常，但是也不会封号！**
 {% endhint %}
 
 ## <mark style="color:red;">5.价格：</mark>
 
-**BBC 会员版丨代练版            150元￥【**[**点此购买**](https://ruohanfkw.shop/?code=ZnJvbT0xMDA2JmE9MyZiPTEwOQ%3D%3D)**】**
+**BBC 会员版丨代练版 150元￥【**[**点此购买**](https://ruohanfkw.shop/?code=ZnJvbT0xMDA2JmE9MyZiPTEwOQ%3D%3D)**】**
 
 ## <mark style="color:red;">6.定位：</mark>
 

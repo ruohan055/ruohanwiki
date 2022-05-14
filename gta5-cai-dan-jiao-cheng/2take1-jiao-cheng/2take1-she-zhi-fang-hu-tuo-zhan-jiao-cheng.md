@@ -6,9 +6,9 @@
 
 **找到并打开Lua文件夹**
 
-![](<../../.gitbook/assets/image (45) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (45) (1) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (52) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (52) (1) (1) (1) (1) (1).png>)
 
 **把下载好的防护拓展复制到这个文件夹里替换掉即可**
 

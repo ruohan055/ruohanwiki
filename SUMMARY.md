@@ -216,3 +216,6 @@
   * [幻影常见问题](gta5-cai-dan-jiao-cheng/phantomx-gun-huan-ying-jiao-cheng/huan-ying-chang-jian-wen-ti.md)
   * [幻影账号](gta5-cai-dan-jiao-cheng/phantomx-gun-huan-ying-jiao-cheng/huan-ying-zhang-hao.md)
   * [幻影模组](gta5-cai-dan-jiao-cheng/phantomx-gun-huan-ying-jiao-cheng/huan-ying-mo-zu.md)
+* [X-Force 教程](gta5-cai-dan-jiao-cheng/xforce-jiao-cheng/README.md)
+  * [XF使用教程](gta5-cai-dan-jiao-cheng/xforce-jiao-cheng/xf-shi-yong-jiao-cheng.md)
+  * [XF设置中文](gta5-cai-dan-jiao-cheng/xforce-jiao-cheng/xf-she-zhi-zhong-wen.md)

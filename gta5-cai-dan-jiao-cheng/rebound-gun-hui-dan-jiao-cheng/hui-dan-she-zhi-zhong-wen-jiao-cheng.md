@@ -14,6 +14,6 @@
 
 ![](../../.gitbook/assets/09630e9e9a71f974706587dff25455ac\_spaces/7YXEHggLzaiKwZjRSOD4/uploads/5rxo6crBKKjolcceSZ3B/image%20\(1\)\_alt=media\&token=8eeb4b3b-83a9-451b-b695-ba7a3a43905c.png)
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)
 
 ![](<../../.gitbook/assets/image (42) (1) (1) (1) (1).png>)

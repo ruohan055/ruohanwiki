@@ -30,7 +30,7 @@
 
 <mark style="color:blue;">**进入游戏故事模式**</mark>**按照下图操作点击注入**
 
-![](<../../.gitbook/assets/image (2) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (4) (1) (1).png>)
 

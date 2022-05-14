@@ -32,7 +32,7 @@ coverY: 0
 
 > **【如果注册时下图的验证码无法显示】**
 >
-> ![](<../../.gitbook/assets/image (45) (1).png>)
+> ![](<../../.gitbook/assets/image (45) (1) (1).png>)
 >
 > **查看解决教程：点击查看解决教程**
 
@@ -72,13 +72,13 @@ coverY: 0
 
 ![](<../../.gitbook/assets/image (65) (1).png>)
 
-![](<../../.gitbook/assets/image (25).png>)
+![](<../../.gitbook/assets/image (25) (1).png>)
 
 ![](<../../.gitbook/assets/image (62).png>)
 
 ![](<../../.gitbook/assets/image (73) (1).png>)
 
-![](<../../.gitbook/assets/image (50).png>)
+![](<../../.gitbook/assets/image (50) (1).png>)
 
 ![点击后即激活成功](<../../.gitbook/assets/image (56).png>)
 

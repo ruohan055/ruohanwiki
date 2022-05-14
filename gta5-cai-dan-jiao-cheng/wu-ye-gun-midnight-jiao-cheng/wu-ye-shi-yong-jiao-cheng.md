@@ -36,7 +36,7 @@ coverY: 0
 
 **出现下图跳转画面代表激活成功**
 
-![](<../../.gitbook/assets/image (2) (1) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (1) (1).png>)
 
 ## <mark style="color:red;">**2.下载：**</mark>
 

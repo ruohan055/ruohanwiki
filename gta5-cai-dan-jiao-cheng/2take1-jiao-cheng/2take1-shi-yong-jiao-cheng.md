@@ -48,7 +48,7 @@
 
 **售后群下载安装器**
 
-![](<../../.gitbook/assets/image (45) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (45) (1) (1) (1) (1) (1).png>)
 
 <mark style="color:purple;">**鼠标右键管理员运行**</mark>**注入器**
 
