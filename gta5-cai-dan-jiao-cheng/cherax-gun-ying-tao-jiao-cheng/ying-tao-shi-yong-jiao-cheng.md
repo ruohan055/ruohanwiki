@@ -80,7 +80,7 @@ coverY: 0
 
 ![](<../../.gitbook/assets/image (50) (1).png>)
 
-![点击后即激活成功](<../../.gitbook/assets/image (56) (1).png>)
+![点击后即激活成功](<../../.gitbook/assets/image (56) (1) (1).png>)
 
 ## 4.下载：
 
