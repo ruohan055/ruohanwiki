@@ -28,7 +28,7 @@ coverY: 0
 <mark style="color:red;">**注册的时候不能有中文跟特殊字符，不然会注册/注入不了**</mark>
 {% endhint %}
 
-![](<../../.gitbook/assets/image (41).png>)
+![](<../../.gitbook/assets/image (41) (1).png>)
 
 > **【如果注册时下图的验证码无法显示】**
 >
@@ -120,7 +120,7 @@ coverY: 0
 
 **上面的步骤完成后，进入游戏故事模式，解压并运行在官网下载的注入器，按照下图操作**
 
-![](<../../.gitbook/assets/image (79) (1) (1).png>)
+![](<../../.gitbook/assets/image (79) (1) (1) (1).png>)
 
 **程序加载后，按照下图操作：**
 

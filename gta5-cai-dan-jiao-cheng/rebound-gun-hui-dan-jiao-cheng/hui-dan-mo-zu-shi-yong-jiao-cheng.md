@@ -12,7 +12,7 @@
 <mark style="color:red;">**你下的是什么文件，就把它解压后放到哪个文件夹里**</mark>
 {% endhint %}
 
-![](<../../.gitbook/assets/image (47) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (47) (1) (1) (1) (1) (1) (1).png>)
 
 ## **游戏内操作：**
 

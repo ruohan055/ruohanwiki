@@ -48,7 +48,7 @@ coverY: 0
 
 **官方下载注入器：**
 
-![](<../../.gitbook/assets/image (23) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (23) (1) (1) (1) (1).png>)
 
 ## **3.安装注入：**
 

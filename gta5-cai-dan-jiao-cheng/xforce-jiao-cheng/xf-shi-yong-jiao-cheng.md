@@ -10,7 +10,7 @@ coverY: 0
 
 **进入XF官网：**[**https://dashboard.xforce.menu/redeem.php**](https://dashboard.xforce.menu/redeem.php)
 
-![](<../../.gitbook/assets/image (47) (1).png>)
+![](<../../.gitbook/assets/image (47) (1) (1).png>)
 
 {% hint style="danger" %}
 <mark style="color:red;">**XF的账号密码不能有符号 不然会注入不了！**</mark>

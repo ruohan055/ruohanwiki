@@ -12,7 +12,7 @@
 
 **点击注册后会跳转**
 
-![](<../../.gitbook/assets/image (23) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (23) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 **右下角提示下图提示代表**<mark style="color:green;">**激活成功**</mark>
 

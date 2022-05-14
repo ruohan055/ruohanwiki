@@ -40,7 +40,7 @@
 
 ![](<../../.gitbook/assets/image (25) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (23) (1).png>)
+![](<../../.gitbook/assets/image (23) (1) (1).png>)
 
 ![](../../.gitbook/assets/802c33f82b550d28f0f26305fef5203b\_spaces/7YXEHggLzaiKwZjRSOD4/uploads/lbEskP5MKeh1maJuttUM/image%20\(7\)\_alt=media\&token=a0539d53-7a45-4eb2-9d1f-67b422e71788.png)
 

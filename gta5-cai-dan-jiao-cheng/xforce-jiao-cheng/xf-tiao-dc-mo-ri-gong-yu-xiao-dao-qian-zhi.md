@@ -4,7 +4,7 @@
 
 ![](<../../.gitbook/assets/image (78).png>)
 
-![](<../../.gitbook/assets/image (79) (1).png>)
+![](<../../.gitbook/assets/image (79) (1) (1).png>)
 
 ## **DC前置设置参照**
 

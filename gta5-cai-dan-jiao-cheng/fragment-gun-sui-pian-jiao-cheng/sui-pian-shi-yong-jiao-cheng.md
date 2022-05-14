@@ -10,7 +10,7 @@
 <mark style="color:red;">**注册的时候不能有中文跟特殊字符，不然会注册/注入不了**</mark>
 {% endhint %}
 
-![](<../../.gitbook/assets/image (47).png>)
+![](<../../.gitbook/assets/image (47) (1).png>)
 
 ![](<../../.gitbook/assets/image (64).png>)
 
@@ -34,7 +34,7 @@
 
 **售后群或者官网下载文件**
 
-![](<../../.gitbook/assets/image (79).png>)
+![](<../../.gitbook/assets/image (79) (1).png>)
 
 ![](<../../.gitbook/assets/image (73).png>)
 

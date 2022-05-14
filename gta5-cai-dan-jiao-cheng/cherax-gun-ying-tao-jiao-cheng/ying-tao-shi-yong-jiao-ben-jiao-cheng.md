@@ -2,7 +2,7 @@
 
 ## **售后群下载Lua脚本文件**
 
-![](<../../.gitbook/assets/image (23).png>)
+![](<../../.gitbook/assets/image (23) (1).png>)
 
 {% hint style="info" %}
 下载解压后**WIN+R输入**%appdata%
