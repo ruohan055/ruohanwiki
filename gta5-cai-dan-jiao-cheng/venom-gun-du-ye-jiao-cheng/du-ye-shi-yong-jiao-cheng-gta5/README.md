@@ -4,7 +4,7 @@
 
 **售后群下载Venmo文件**
 
-![](<../../../.gitbook/assets/image (16) (1).png>)
+![](<../../../.gitbook/assets/image (16) (1) (2).png>)
 
 **下载解压后**
 
@@ -12,7 +12,7 @@
 
 **如下图操作：**
 
-![](<../../../.gitbook/assets/image (57) (1) (1).png>)
+![](<../../../.gitbook/assets/image (57) (1) (1) (1).png>)
 
 {% hint style="danger" %}
 <mark style="color:red;">**注册的时候不能有中文跟特殊字符，不然会注册/注入不了**</mark>

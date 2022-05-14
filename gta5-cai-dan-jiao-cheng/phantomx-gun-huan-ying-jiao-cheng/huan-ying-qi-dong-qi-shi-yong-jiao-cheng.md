@@ -42,6 +42,6 @@ coverY: 0
 
 **在这个新窗口中，点击"**<mark style="color:purple;">**LAUNCH**</mark>**"按钮。**
 
-![](<../../.gitbook/assets/image (16).png>)
+![](<../../.gitbook/assets/image (16) (1).png>)
 
 **出现的黑框不要关闭它！**

@@ -24,7 +24,7 @@
 
 **售后群下载文件或者官网下载**
 
-![](<../../.gitbook/assets/image (56).png>) ![](../../.gitbook/assets/04f37d4bb748d6588d9e750438ee6ad.png)
+![](<../../.gitbook/assets/image (57).png>) ![](../../.gitbook/assets/04f37d4bb748d6588d9e750438ee6ad.png)
 
 ## **3.注入：**
 

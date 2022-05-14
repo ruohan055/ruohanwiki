@@ -2,7 +2,7 @@
 
 ## <mark style="color:red;">1.注册：</mark>
 
-**进入官网：**[**https://sasavn.ru/Login.php**](https://sasavn.ru/Login.php)****
+**进入官网：**[**https://sasavn.ru/Login.php**](https://sasavn.ru/Login.php)\*\*\*\*
 
 **如下图操作：**
 
@@ -24,7 +24,7 @@
 
 **官网下载安装器**
 
-![](<../../.gitbook/assets/image (22) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (22) (1) (1) (1) (1) (1) (1) (1).png>)
 
 **打开后会自动更新**
 

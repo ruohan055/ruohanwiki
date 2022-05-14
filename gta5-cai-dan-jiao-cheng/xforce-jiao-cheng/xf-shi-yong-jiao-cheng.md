@@ -18,7 +18,7 @@ coverY: 0
 
 ![](<../../.gitbook/assets/image (3).png>)
 
-![弹出此提示，说明你注册并激活成功了](<../../.gitbook/assets/image (50).png>)
+![弹出此提示，说明你注册并激活成功了](<../../.gitbook/assets/image (50) (1).png>)
 
 {% hint style="warning" %}
 <mark style="color:orange;">**XF目前不能修改密码，改完会无法登陆注入**</mark>
@@ -28,7 +28,7 @@ coverY: 0
 
 **售后群-群文件-安装器-下载安装器**
 
-![](<../../.gitbook/assets/image (49).png>)
+![](<../../.gitbook/assets/image (49) (1).png>)
 
 ## **3.注入：**
 

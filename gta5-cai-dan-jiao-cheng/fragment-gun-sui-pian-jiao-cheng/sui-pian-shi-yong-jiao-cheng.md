@@ -14,7 +14,7 @@
 
 ![](<../../.gitbook/assets/image (64).png>)
 
-![](<../../.gitbook/assets/image (48).png>)
+![](<../../.gitbook/assets/image (49).png>)
 
 ## **2.激活：**
 
@@ -42,9 +42,24 @@
 
 **下载后解压文件**
 
-**右键**<mark style="color:blue;">**管理员打开**</mark>
+**右键**<mark style="color:blue;">**管理员打开**</mark>**后**
 
 **如下图操作：**
 
 ![](<../../.gitbook/assets/image (63).png>)
 
+### **Steam碎片注入视频教程**
+
+{% file src="../../.gitbook/assets/碎片注入视频教程.mp4" %}
+
+## **5.使用：**
+
+**注入成功后**
+
+**`-` 呼出/隐藏菜单**
+
+**小键盘`8`  `2` 控制上下**
+
+**小键盘`4`  `6` 控制左右**
+
+**小键盘`5` 确定； `0` 返回**

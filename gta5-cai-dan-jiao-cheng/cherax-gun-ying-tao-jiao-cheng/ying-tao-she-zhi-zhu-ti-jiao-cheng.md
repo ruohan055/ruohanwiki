@@ -10,7 +10,7 @@
 
 **找到**<mark style="color:purple;">**Cherax**</mark>**文件夹**
 
-![](<../../.gitbook/assets/image (68).png>)
+![](<../../.gitbook/assets/image (68) (1).png>)
 
 ![](<../../.gitbook/assets/image (47) (1) (1).png>)
 

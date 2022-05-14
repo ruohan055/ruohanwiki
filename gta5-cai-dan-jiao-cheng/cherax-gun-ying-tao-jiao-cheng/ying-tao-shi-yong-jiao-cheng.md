@@ -20,7 +20,7 @@ coverY: 0
 
 **按照下图操作：**
 
-![](<../../.gitbook/assets/image (69).png>)
+![](<../../.gitbook/assets/image (69) (1).png>)
 
 ![](<../../.gitbook/assets/image (44).png>)
 
@@ -78,7 +78,7 @@ coverY: 0
 
 ![](<../../.gitbook/assets/image (73) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (50) (1).png>)
+![](<../../.gitbook/assets/image (50) (1) (1).png>)
 
 ![点击后即激活成功](<../../.gitbook/assets/image (56) (1) (1).png>)
 

@@ -229,3 +229,7 @@
   * [XF注入崩溃或游戏闪退](gta5-cai-dan-jiao-cheng/xforce-jiao-cheng/xf-zhu-ru-beng-kui-huo-you-xi-shan-tui.md)
 * [Fragment丨碎片 教程](gta5-cai-dan-jiao-cheng/fragment-gun-sui-pian-jiao-cheng/README.md)
   * [碎片使用教程](gta5-cai-dan-jiao-cheng/fragment-gun-sui-pian-jiao-cheng/sui-pian-shi-yong-jiao-cheng.md)
+  * [碎片设置中文教程](gta5-cai-dan-jiao-cheng/fragment-gun-sui-pian-jiao-cheng/sui-pian-she-zhi-zhong-wen-jiao-cheng.md)
+  * [碎片解绑教程](gta5-cai-dan-jiao-cheng/fragment-gun-sui-pian-jiao-cheng/sui-pian-jie-bang-jiao-cheng.md)
+  * [碎片刷金教程](gta5-cai-dan-jiao-cheng/fragment-gun-sui-pian-jiao-cheng/sui-pian-shua-jin-jiao-cheng.md)
+  * [碎片更新公告](gta5-cai-dan-jiao-cheng/fragment-gun-sui-pian-jiao-cheng/sui-pian-geng-xin-gong-gao.md)
