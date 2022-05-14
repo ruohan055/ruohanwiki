@@ -233,3 +233,4 @@
   * [碎片解绑教程](gta5-cai-dan-jiao-cheng/fragment-gun-sui-pian-jiao-cheng/sui-pian-jie-bang-jiao-cheng.md)
   * [碎片刷金教程](gta5-cai-dan-jiao-cheng/fragment-gun-sui-pian-jiao-cheng/sui-pian-shua-jin-jiao-cheng.md)
   * [碎片更新公告](gta5-cai-dan-jiao-cheng/fragment-gun-sui-pian-jiao-cheng/sui-pian-geng-xin-gong-gao.md)
+  * [碎片功能图](gta5-cai-dan-jiao-cheng/fragment-gun-sui-pian-jiao-cheng/sui-pian-gong-neng-tu.md)
