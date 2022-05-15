@@ -20,7 +20,7 @@
 **你把程序打开了两遍**
 {% endhint %}
 
-![](<../../.gitbook/assets/image (55) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (55) (1) (1) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (44) (1) (1) (1).png>)
 

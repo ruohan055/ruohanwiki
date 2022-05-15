@@ -4,7 +4,7 @@
 
 **解压后打开**
 
-![](<../../.gitbook/assets/image (56).png>)
+![](<../../.gitbook/assets/image (56) (1).png>)
 
 ![](<../../.gitbook/assets/image (69) (1).png>)
 

@@ -8,7 +8,7 @@
 
 [**点击进入官网**](https://client.delusion.gg/login)
 
-![](<../../.gitbook/assets/image (53) (1).png>)
+![](<../../.gitbook/assets/image (53) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (20) (1).png>)
 
@@ -55,7 +55,7 @@
 
 <mark style="color:red;">**否则下次注入就会失败！**</mark>
 
-![](<../../.gitbook/assets/image (18) (1) (1).png>)
+![](<../../.gitbook/assets/image (18) (1) (1) (1).png>)
 {% endhint %}
 
 ## **3.使用：**

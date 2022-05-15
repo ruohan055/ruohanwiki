@@ -2,7 +2,7 @@
 
 ## **关闭安全模式**
 
-****![](<../../.gitbook/assets/image (50).png>)****
+****![](<../../.gitbook/assets/image (50) (1).png>)****
 
 ****![](<../../.gitbook/assets/image (16).png>)****
 

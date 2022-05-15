@@ -2,4 +2,4 @@
 
 **ESC---设置---键盘/鼠标---鼠标输入方式【原始输入】**
 
-![](<../../.gitbook/assets/image (33).png>)
+![](<../../.gitbook/assets/image (33) (1).png>)

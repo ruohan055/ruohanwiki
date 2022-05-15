@@ -6,7 +6,7 @@
 
 **WIN+R输入 %appdata% (WIN就是键盘上的开始键)**
 
-![](<../../.gitbook/assets/image (35).png>)
+![](<../../.gitbook/assets/image (35) (1).png>)
 
 **点击确定，找到**<mark style="color:purple;">**Cherax**</mark>**文件夹**
 
@@ -20,7 +20,7 @@
 
 **把翻译文件放到该文件夹中**
 
-![](<../../.gitbook/assets/image (55) (1).png>)
+![](<../../.gitbook/assets/image (55) (1) (1).png>)
 
 **注入后，游戏内选择中文**
 

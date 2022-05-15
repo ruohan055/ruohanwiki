@@ -78,9 +78,9 @@ coverY: 0
 
 ![](<../../.gitbook/assets/image (73) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (50) (1) (1).png>)
+![](<../../.gitbook/assets/image (50) (1) (1) (1).png>)
 
-![点击后即激活成功](<../../.gitbook/assets/image (56) (1) (1).png>)
+![点击后即激活成功](<../../.gitbook/assets/image (56) (1) (1) (1).png>)
 
 ## 4.下载：
 
@@ -98,17 +98,17 @@ coverY: 0
 
 **售后群下载樱桃文件**
 
-![](<../../.gitbook/assets/image (60).png>)
+![](<../../.gitbook/assets/image (60) (1).png>)
 
 **下载解压后**
 
 **WIN+R输入 %appdata% (WIN就是键盘上的开始键)**
 
-![](<../../.gitbook/assets/image (24).png>)
+![](<../../.gitbook/assets/image (24) (1).png>)
 
 **把解压后的**<mark style="color:purple;">**Cherax**</mark>**文件拖到**
 
-![](<../../.gitbook/assets/image (53).png>)
+![](<../../.gitbook/assets/image (53) (1).png>)
 
 ![](<../../.gitbook/assets/image (39).png>)
 

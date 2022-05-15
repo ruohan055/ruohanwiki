@@ -18,7 +18,7 @@
 
 ## **2.激活：**
 
-![](<../../.gitbook/assets/image (18).png>)
+![](<../../.gitbook/assets/image (18) (1).png>)
 
 ![](<../../.gitbook/assets/image (66).png>)
 
@@ -28,7 +28,7 @@
 <mark style="color:red;">**保存好自己的激活码以及账号若丢失无法找回**</mark>
 {% endhint %}
 
-![](<../../.gitbook/assets/image (76).png>)
+![](<../../.gitbook/assets/image (76) (1).png>)
 
 ## **3.下载：**
 

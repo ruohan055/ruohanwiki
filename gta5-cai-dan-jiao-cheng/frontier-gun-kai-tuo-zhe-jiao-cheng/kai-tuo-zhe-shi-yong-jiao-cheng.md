@@ -16,7 +16,7 @@ coverY: 0
 <mark style="color:red;">**注册账号密码不能有中文 不然无法注入菜单！**</mark>
 {% endhint %}
 
-![](<../../.gitbook/assets/image (6) (1).png>)
+![](<../../.gitbook/assets/image (6) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (22) (1) (1) (1) (1) (1) (1).png>)
 

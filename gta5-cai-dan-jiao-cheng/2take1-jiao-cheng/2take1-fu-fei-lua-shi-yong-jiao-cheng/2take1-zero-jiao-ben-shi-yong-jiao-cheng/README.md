@@ -18,7 +18,7 @@
 >
 > **点击查看解决方法**
 
-![](<../../../../.gitbook/assets/image (6).png>)
+![](<../../../../.gitbook/assets/image (6) (1).png>)
 
 **点击登陆**
 

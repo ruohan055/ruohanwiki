@@ -32,7 +32,7 @@
 
 ![](<../../.gitbook/assets/image (2) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (4) (1) (1).png>)
+![](<../../.gitbook/assets/image (4) (1) (1) (1).png>)
 
 {% hint style="info" %}
 **接着会弹出一个黑框，不要关闭他，最小化即可**

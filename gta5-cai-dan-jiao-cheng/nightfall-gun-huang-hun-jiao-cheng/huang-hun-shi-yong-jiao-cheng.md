@@ -10,7 +10,7 @@
 
 > **【如果注册时下图中的验证码无法显】**
 >
-> <img src="../../.gitbook/assets/image (50) (1) (1) (1).png" alt="" data-size="original">
+> <img src="../../.gitbook/assets/image (50) (1) (1) (1) (1).png" alt="" data-size="original">
 >
 > **【点此查看解决方法】**
 
@@ -26,7 +26,7 @@
 
 **登录后如图操作：**
 
-![](<../../.gitbook/assets/image (18) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (18) (1) (1) (1) (1) (1) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (9) (1) (1) (1) (1).png>)
 
@@ -38,7 +38,7 @@
 
 ![](../../.gitbook/assets/3f66ed722fd92244ff79aed8734f6106\_spaces/7YXEHggLzaiKwZjRSOD4/uploads/YCvQA539Ii2oLeEmOckA/QQ%E5%9B%BE%E7%89%8720220501141839\_alt=media\&token=b10e68d9-33d3-49eb-969b-bd65a5974446.png)
 
-![](<../../.gitbook/assets/image (19) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (19) (1) (1) (1) (1) (1) (1).png>)
 
 **然后进入游戏故事模式**
 
@@ -50,7 +50,7 @@
 
 **点击登录后，会提示下图安装完成**
 
-![](<../../.gitbook/assets/image (53) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (53) (1) (1) (1) (1) (1).png>)
 
 {% hint style="info" %}
 **安装只需要一遍，除非你卸载了或者更换了电脑，否则下次只需要打开游戏注入菜单**

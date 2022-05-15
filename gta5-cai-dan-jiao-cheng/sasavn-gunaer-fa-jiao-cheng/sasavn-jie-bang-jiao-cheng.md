@@ -6,7 +6,7 @@
 
 ## **使用快速解绑key教程：**
 
-**进入官网：**[**https://sasavn.ru/Login.php**](https://sasavn.ru/Login.php)****
+**进入官网：**[**https://sasavn.ru/Login.php**](https://sasavn.ru/Login.php)\*\*\*\*
 
 **按照下图操作：**
 
@@ -14,7 +14,7 @@
 **登录你的SasaVN账号**
 {% endhint %}
 
-![](<../../.gitbook/assets/image (19) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (19) (1) (1) (1) (1) (1) (1) (1) (2).png>)
 
 ![](<../../.gitbook/assets/image (5) (1) (1) (1).png>)
 

@@ -1,10 +1,10 @@
 # 午夜解绑教程
 
-**进入官网解绑地址：**[**https://midnight.im/**](https://midnight.im)****
+**进入官网解绑地址：**[**https://midnight.im/**](https://midnight.im)\*\*\*\*
 
 **如下图操作：**
 
-![](<../../.gitbook/assets/image (6) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (6) (1) (1) (1) (1) (1).png>)
 
 **解绑完成后按照正常流程安装注入即可**
 

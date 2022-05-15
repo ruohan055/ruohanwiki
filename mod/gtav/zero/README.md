@@ -6,9 +6,7 @@ description: 购买完成后均为终身使用，终身是指软件的生命周�
 
 ## <mark style="color:red;">1.菜单列表：</mark>
 
-![](<../../../.gitbook/assets/image (4) (1) (1) (1).png>)
-
-
+![](<../../../.gitbook/assets/image (4) (1) (1) (1) (1).png>)
 
 ## <mark style="color:red;">2.功能图：</mark>
 
@@ -30,12 +28,12 @@ description: 购买完成后均为终身使用，终身是指软件的生命周�
 * **最人性化的透视功能\[IMGUI写法]**
 * **最人性化的透视\[美观] \[自定义颜色 距离 骨骼 头部]**
 * **拥有独家任务助手/改分红**
-* ****![](../../../.gitbook/assets/zero介绍图.png)****
+* ![](../../../.gitbook/assets/zero介绍图.png)
 {% endhint %}
 
 ## <mark style="color:red;">4.价格：</mark>
 
-**ZERO--Menu**               **150￥【**[**点此购买**](https://ruohanfkw.shop/?code=ZnJvbT0xMDA2JmE9MiZiPTc0)**】**
+**ZERO--Menu** **150￥【**[**点此购买**](https://ruohanfkw.shop/?code=ZnJvbT0xMDA2JmE9MiZiPTc0)**】**
 
 ## <mark style="color:red;">**5.定位：**</mark>
 

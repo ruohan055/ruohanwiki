@@ -2,7 +2,7 @@
 
 ## **售后群下载喜欢的主题文件**
 
-![](<../../.gitbook/assets/image (19).png>)
+![](<../../.gitbook/assets/image (19) (1).png>)
 
 **WIN+R输入 %appdata% (WIN就是键盘上的开始键)**
 
@@ -14,7 +14,7 @@
 
 ![](<../../.gitbook/assets/image (47) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (37).png>)
+![](<../../.gitbook/assets/image (37) (2).png>)
 
 ## **游戏内操作：**
 
