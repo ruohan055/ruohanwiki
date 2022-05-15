@@ -20,7 +20,7 @@ coverY: 0
 
 **按照下图操作：**
 
-![](<../../.gitbook/assets/image (69) (1).png>)
+![](<../../.gitbook/assets/image (69) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (44).png>)
 

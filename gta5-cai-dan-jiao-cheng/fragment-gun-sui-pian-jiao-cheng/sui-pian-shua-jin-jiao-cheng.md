@@ -10,4 +10,4 @@
 
 ## **找到刷钱选项**
 
-****![](<../../.gitbook/assets/image (68).png>)****
+****![](<../../.gitbook/assets/image (68) (1).png>)****

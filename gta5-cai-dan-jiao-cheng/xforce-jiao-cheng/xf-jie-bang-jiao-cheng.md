@@ -4,7 +4,7 @@
 
 **按照下图操作 【解绑冷却时间为7天】**
 
-![](<../../.gitbook/assets/image (52).png>)
+![](<../../.gitbook/assets/image (52) (1).png>)
 
 ![](<../../.gitbook/assets/image (12).png>)
 

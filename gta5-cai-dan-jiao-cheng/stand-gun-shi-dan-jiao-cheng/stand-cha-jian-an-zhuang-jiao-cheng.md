@@ -8,7 +8,7 @@
 
 ![](<../../.gitbook/assets/image (18) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (52) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (52) (1) (1) (1) (1) (1).png>)
 
 ![F8呼出Menyoo](<../../.gitbook/assets/image (24) (1) (1).png>)
 

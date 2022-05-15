@@ -44,7 +44,7 @@
 
 **如下图操作：**
 
-![](<../../.gitbook/assets/image (52) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (52) (1) (1) (1) (1) (1) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (15) (1) (1) (1) (1) (1).png>)
 
